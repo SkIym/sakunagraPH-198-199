@@ -1,0 +1,669 @@
+2025-10-13 19:24:10,812 — INFO — 
+📄 Processing page 1...
+2025-10-13 19:24:10,823 — INFO — Found 20 posts on this page.
+2025-10-13 19:24:17,058 — INFO — Armed Conflict in Roseller Lim, Zamboanga Sibugay [09 Sep 2020][Terminated]
+2025-10-13 19:24:17,471 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Armed-Conflict-in-Roseller-Lim-Zamboanga-Sibugay-19-May-2024-6PM.pdf
+2025-10-13 19:24:17,472 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Armed-Conflict-in-Roseller-Lim-Zamboanga-Sibugay-19-May-2024-6PM.pdf
+2025-10-13 19:24:24,678 — INFO — Coronavirus Disease (COVID-19) [15 Mar 2020]
+2025-10-13 19:24:25,059 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-1059-on-the-Coronavirus-Disease-COVID19-as-of-22-February-2023-6PM.pdf
+2025-10-13 19:24:25,061 — INFO — ✅ Saved as: DSWD-DROMIC-Report-1059-on-the-Coronavirus-Disease-COVID19-as-of-22-February-2023-6PM.pdf
+2025-10-13 19:24:32,212 — INFO — Flooding Incident in Negros Occidental [31 Dec 2020] [TERMINATED]
+2025-10-13 19:24:32,234 — INFO — 🔍 Extracted direct file URL: https://dromic.dswd.gov.ph/wp-content/uploads/2021/01/DSWD-DROMIC-Terminal-Report-on-the-Flooding-Incident-in-Negros-Occidental-26-November-2021-6PM.docx
+2025-10-13 19:24:32,563 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Flooding-Incident-in-Negros-Occidental-26-November-2021-6PM.docx
+2025-10-13 19:24:32,564 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Flooding-Incident-in-Negros-Occidental-26-November-2021-6PM.docx
+2025-10-13 19:24:39,753 — INFO — Typhoon “Ulysses” [08 Nov 2020] [TERMINATED]
+2025-10-13 19:24:39,775 — INFO — 🔍 Extracted direct file URL: https://dromic.dswd.gov.ph/wp-content/uploads/2021/09/DSWD-DROMIC-Terminal-Report-on-Typhoon-ULYSSES-13-November-2021-6PM.docx
+2025-10-13 19:24:40,215 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-Typhoon-ULYSSES-13-November-2021-6PM.docx
+2025-10-13 19:24:40,217 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-Typhoon-ULYSSES-13-November-2021-6PM.docx
+2025-10-13 19:24:47,399 — INFO — Fire Incident in Brgy. 76-A, Bucana, Talomo A, Davao City [12 Feb 2020] [Terminated]
+2025-10-13 19:24:47,421 — INFO — 🔍 Extracted direct file URL: https://dromic.dswd.gov.ph/wp-content/uploads/2020/02/DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-76-A-Bucana-Talomo-A-Davao-City-18-October-2021-6PM.docx
+2025-10-13 19:24:47,768 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-76-A-Bucana-Talomo-A-Davao-City-18-October-2021-6PM.docx
+2025-10-13 19:24:47,769 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-76-A-Bucana-Talomo-A-Davao-City-18-October-2021-6PM.docx
+2025-10-13 19:24:49,921 — INFO — Fire Incident in Brgy. Ilang, Bunawan, Davao City [29 Apr 2020]
+2025-10-13 19:24:49,938 — INFO — 🔍 Extracted direct file URL: https://dromic.dswd.gov.ph/wp-content/uploads/2020/05/DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Ilang-Bunawan-Davao-City-04-October-2021.docx
+2025-10-13 19:24:50,272 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Ilang-Bunawan-Davao-City-04-October-2021.docx
+2025-10-13 19:24:50,273 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Ilang-Bunawan-Davao-City-04-October-2021.docx
+2025-10-13 19:24:52,414 — INFO — Fire Incident in Brgy. Tagaytay, San Juan, Abra [30 Mar 2020] [TERMINATED]
+2025-10-13 19:24:52,434 — INFO — 🔍 Extracted direct file URL: https://dromic.dswd.gov.ph/wp-content/uploads/2020/04/DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Tagaytay-San-Juan-Abra-29-September-2021.docx
+2025-10-13 19:24:52,763 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Tagaytay-San-Juan-Abra-29-September-2021.docx
+2025-10-13 19:24:52,764 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Tagaytay-San-Juan-Abra-29-September-2021.docx
+2025-10-13 19:24:54,887 — INFO — Fire Incident in Brgy. Lipcan, Bangued, Abra [01 Apr 2020] [TERMINATED]
+2025-10-13 19:24:54,905 — INFO — 🔍 Extracted direct file URL: https://dromic.dswd.gov.ph/wp-content/uploads/2020/04/DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Lipcan-Bangued-Abra-29-September-2021.docx
+2025-10-13 19:24:55,232 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Lipcan-Bangued-Abra-29-September-2021.docx
+2025-10-13 19:24:55,233 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Lipcan-Bangued-Abra-29-September-2021.docx
+2025-10-13 19:24:57,367 — INFO — Fire Incident in Brgy. 63 Zone 6, Caloocan South, Caloocan City [06 Feb. 2020] [TERMINATED]
+2025-10-13 19:24:57,388 — INFO — 🔍 Extracted direct file URL: https://dromic.dswd.gov.ph/wp-content/uploads/2020/02/DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-63-Zone-6-Caloocan-South-Caloocan-City-28-September-2021-6PM.docx
+2025-10-13 19:24:57,757 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-63-Zone-6-Caloocan-South-Caloocan-City-28-September-2021-6PM.docx
+2025-10-13 19:24:57,758 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-63-Zone-6-Caloocan-South-Caloocan-City-28-September-2021-6PM.docx
+2025-10-13 19:25:06,453 — INFO — Fire Incident in Brgy. Tabon, Bislig City, Surigao Del Sur [22 June 2021][Terminated]
+2025-10-13 19:25:06,873 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Tabon-Bislig-City-Surigao-Del-Sur-17-August-2021-6PM.docx
+2025-10-13 19:25:06,874 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Tabon-Bislig-City-Surigao-Del-Sur-17-August-2021-6PM.docx
+2025-10-13 19:25:09,120 — INFO — Oil Spill Incident in Jasaan, Misamis Oriental [03 Apr 2021] [TERMINATED]
+2025-10-13 19:25:09,506 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-on-the-Oil-Spill-Incident-in-Jasaan-Misamis-Oriental-17-May-2021-6PM.docx
+2025-10-13 19:25:09,507 — INFO — ✅ Saved as: DSWD-DROMIC-Report-on-the-Oil-Spill-Incident-in-Jasaan-Misamis-Oriental-17-May-2021-6PM.docx
+2025-10-13 19:25:17,199 — INFO — Typhoon “Quinta” [23 Oct 2020] [TERMINATED]
+2025-10-13 19:25:17,659 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-Typhoon-QUINTA-16-April-2021-6PM.docx
+2025-10-13 19:25:17,660 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-Typhoon-QUINTA-16-April-2021-6PM.docx
+2025-10-13 19:25:25,069 — INFO — Armed Conflict in Matuguinao, Samar [15 December 2020]
+2025-10-13 19:25:25,444 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-1-on-the-Armed-Conflict-in-Matuguinao-Samar-as-of-08-April-2021-6PM.docx
+2025-10-13 19:25:25,445 — INFO — ✅ Saved as: DSWD-DROMIC-Report-1-on-the-Armed-Conflict-in-Matuguinao-Samar-as-of-08-April-2021-6PM.docx
+2025-10-13 19:25:27,755 — INFO — Armed Conflict in Matuguinao, Samar [15 Dec 2020]
+2025-10-13 19:25:28,123 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-1-on-the-Armed-Conflict-in-Matuguinao-Samar-as-of-08-April-2021-6PM-1.docx
+2025-10-13 19:25:28,124 — INFO — ✅ Saved as: DSWD-DROMIC-Report-1-on-the-Armed-Conflict-in-Matuguinao-Samar-as-of-08-April-2021-6PM-1.docx
+2025-10-13 19:25:35,618 — INFO — Typhoon Rolly [I.N. GONI] [29 Oct 2020] [TERMINATED]
+2025-10-13 19:25:36,056 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-Super-Typhoon-Rolly-as-of-05-April-2021-6PM.docx
+2025-10-13 19:25:36,057 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-Super-Typhoon-Rolly-as-of-05-April-2021-6PM.docx
+2025-10-13 19:25:38,499 — INFO — Fire Incident in Brgys. 823 and 824, Paco, Manila City [16 Dec 2020] [TERMINATED]
+2025-10-13 19:25:38,885 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgys.-823-and-824-Paco-Manila-City-02-April-2020-6PM.docx
+2025-10-13 19:25:38,886 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgys.-823-and-824-Paco-Manila-City-02-April-2020-6PM.docx
+2025-10-13 19:25:46,267 — INFO — Storm Surge in Brgy. Poblacion, New Washington, Aklan [01 Dec 2020] [TERMINATED]
+2025-10-13 19:25:46,668 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Storm-Surge-in-Brgy.-Poblacion-New-Washington-Aklan-12-March-2021-6PM.docx
+2025-10-13 19:25:46,669 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Storm-Surge-in-Brgy.-Poblacion-New-Washington-Aklan-12-March-2021-6PM.docx
+2025-10-13 19:25:48,828 — INFO — Fire Incident in Brgy. Cadabdab, Tubungan, Iloilo [23 Dec 2020] [TERMINATED]
+2025-10-13 19:25:49,275 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Cadabdab-Tubungan-Iloilo-10-March-2021-6PM.docx
+2025-10-13 19:25:49,276 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Cadabdab-Tubungan-Iloilo-10-March-2021-6PM.docx
+2025-10-13 19:25:51,713 — INFO — Fire Incident in Brgy. Alabang, Muntinlupa City [14 Dec 2020] [TERMINATED]
+2025-10-13 19:25:52,101 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Alabang-Muntinlupa-City-09-March-2021-6PM.docx
+2025-10-13 19:25:52,102 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Alabang-Muntinlupa-City-09-March-2021-6PM.docx
+2025-10-13 19:25:59,530 — INFO — Social Disorganization in Brgy. Sumbakil, Polomolok, South Cotabato [20 Dec 2020] [TERMINATED]
+2025-10-13 19:25:59,926 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-Terminal-on-the-Social-Disorganization-in-Brgy.-Sumbakil-Polomolok-South-Cotabato-05-March-2021-6PM.docx
+2025-10-13 19:25:59,926 — INFO — ✅ Saved as: DSWD-DROMIC-Report-Terminal-on-the-Social-Disorganization-in-Brgy.-Sumbakil-Polomolok-South-Cotabato-05-March-2021-6PM.docx
+2025-10-13 19:26:01,656 — INFO — 
+📄 Processing page 2...
+2025-10-13 19:26:01,662 — INFO — Found 20 posts on this page.
+2025-10-13 19:26:08,065 — INFO — Displacement in Brgy. Banbanen, Palimbang, Sultan Kudarat [19 December 2020]
+2025-10-13 19:26:08,419 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-1-on-the-Displacement-in-Brgy.-Banbanen-Palimbang-Sultan-Kudarat-as-of-05-February-2021-6PM.docx
+2025-10-13 19:26:08,421 — INFO — ✅ Saved as: DSWD-DROMIC-Report-1-on-the-Displacement-in-Brgy.-Banbanen-Palimbang-Sultan-Kudarat-as-of-05-February-2021-6PM.docx
+2025-10-13 19:26:15,837 — INFO — Flooding Incident in Region VI [2 December 2020] [Terminated]
+2025-10-13 19:26:16,215 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Flooding-Incident-in-Region-VI-04-February-2021-6PM.docx
+2025-10-13 19:26:16,216 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Flooding-Incident-in-Region-VI-04-February-2021-6PM.docx
+2025-10-13 19:26:23,786 — INFO — Displacement in Tapaz, Capiz [30 Dec 2020] [TERMINATED]
+2025-10-13 19:26:24,173 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Displacement-in-Tapaz-Capiz-04-February-2021-6PM.docx
+2025-10-13 19:26:24,174 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Displacement-in-Tapaz-Capiz-04-February-2021-6PM.docx
+2025-10-13 19:26:31,589 — INFO — Fire Incident in Brgy. Culiat, Quezon City [29 Dec 2020]
+2025-10-13 19:26:31,958 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-on-the-Fire-Incident-in-Brgy.-Culiat-Quezon-City-26-January-2021-6PM.docx
+2025-10-13 19:26:31,958 — INFO — ✅ Saved as: DSWD-DROMIC-Report-on-the-Fire-Incident-in-Brgy.-Culiat-Quezon-City-26-January-2021-6PM.docx
+2025-10-13 19:26:39,393 — INFO — Fire Incident in Brgy. 95, Pasay City [06 Dec 2020] [TERMINATED]
+2025-10-13 19:26:39,803 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-on-the-Fire-Incident-in-Brgy.-95-Pasay-City-25-January-2021-6PM.docx
+2025-10-13 19:26:39,804 — INFO — ✅ Saved as: DSWD-DROMIC-Report-on-the-Fire-Incident-in-Brgy.-95-Pasay-City-25-January-2021-6PM.docx
+2025-10-13 19:26:48,238 — INFO — Fire Incident in Brgy. 628, Sta. Mesa, Manila [02 Nov 2020] [TERMINATED]
+2025-10-13 19:26:48,606 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-628-Sta.-Mesa-Manila-20-January-2021-6PM.docx
+2025-10-13 19:26:48,607 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-628-Sta.-Mesa-Manila-20-January-2021-6PM.docx
+2025-10-13 19:26:56,010 — INFO — Fire Incident in Brgy. Tanza, Navotas City [14 May 2020] [TERMINATED]
+2025-10-13 19:26:56,400 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-on-the-Fire-Incident-in-Brgy.-Tanza-Navotas-City-20-January-2021-6PM.docx
+2025-10-13 19:26:56,400 — INFO — ✅ Saved as: DSWD-DROMIC-Report-on-the-Fire-Incident-in-Brgy.-Tanza-Navotas-City-20-January-2021-6PM.docx
+2025-10-13 19:27:03,824 — INFO — Tropical Storm “Siony” [01 Nov 2020] [TERMINATED]
+2025-10-13 19:27:04,216 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-Severe-Tropical-Storm-Siony-19-January-2021-6PM.docx
+2025-10-13 19:27:04,217 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-Severe-Tropical-Storm-Siony-19-January-2021-6PM.docx
+2025-10-13 19:27:11,613 — INFO — Fire Incident in Brgy. 649, Tondo, Manila City [16 Jul 2020] [TERMINATED]
+2025-10-13 19:27:11,985 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-649-Tondo-Manila-City-19-January-2021-6PM.docx
+2025-10-13 19:27:11,986 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-649-Tondo-Manila-City-19-January-2021-6PM.docx
+2025-10-13 19:27:19,434 — INFO — Fire Incident in Brgy. Looc, Mandaue City [06 Dec 2020] [TERMINATED]
+2025-10-13 19:27:20,016 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Looc-Mandaue-City-19-January-2021-6PM.docx
+2025-10-13 19:27:20,017 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Looc-Mandaue-City-19-January-2021-6PM.docx
+2025-10-13 19:27:27,477 — INFO — Fire Incident in Brgy. Addition Hills, Mandaluyong City [01 Jun 2020]
+2025-10-13 19:27:27,816 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Addition-Hills-Mandaluyong-City-19-January-2021-6PM.docx
+2025-10-13 19:27:27,817 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Addition-Hills-Mandaluyong-City-19-January-2021-6PM.docx
+2025-10-13 19:27:35,214 — INFO — Fire Incident in Brgy. Tugatog, Malabon City [05 Sep 2020]
+2025-10-13 19:27:35,595 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Tugatog-Malabon-City-19-January-2021-6PM.docx
+2025-10-13 19:27:35,596 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Tugatog-Malabon-City-19-January-2021-6PM.docx
+2025-10-13 19:27:43,011 — INFO — Fire Incident in Brgy. Addition Hills, Mandaluyong City [06 Jun 2020] [TERMINATED]
+2025-10-13 19:27:43,368 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Addition-Hills-Mandaluyong-City-19-January-2021-6PM-1.docx
+2025-10-13 19:27:43,368 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Addition-Hills-Mandaluyong-City-19-January-2021-6PM-1.docx
+2025-10-13 19:27:51,825 — INFO — Fire Incident in Brgy. 286, Delpan, Manila [15 Apr 2020] [TERMINATED]
+2025-10-13 19:27:52,183 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-286-Delpan-Manila-19-January-2021-6PM.docx
+2025-10-13 19:27:52,184 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-286-Delpan-Manila-19-January-2021-6PM.docx
+2025-10-13 19:27:59,651 — INFO — Fire Incident in Brgy. 210, Tondo, Manila [21 Jan 2020] [TERMINATED]
+2025-10-13 19:27:59,998 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-210-Tondo-Manila-19-January-2021-6PM.docx
+2025-10-13 19:27:59,998 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-210-Tondo-Manila-19-January-2021-6PM.docx
+2025-10-13 19:28:07,437 — INFO — Fire Incident in Brgy. 105, Tondo, Manila [18 Apr 2020] [TERMINATED]
+2025-10-13 19:28:07,798 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-105-Tondo-Manila-19-January-2021-6PM.docx
+2025-10-13 19:28:07,798 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-105-Tondo-Manila-19-January-2021-6PM.docx
+2025-10-13 19:28:15,186 — INFO — Fire Incident in Brgy. Talipapa, Quezon City [07 Jul 2020] [TERMINATED]
+2025-10-13 19:28:15,571 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Talipapa-Quezon-City-19-January-2021-6PM.docx
+2025-10-13 19:28:15,572 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Talipapa-Quezon-City-19-January-2021-6PM.docx
+2025-10-13 19:28:22,988 — INFO — Social Disorganization in Brgy. Koronadal, Polomolok, South Cotabato [13 Nov 2020]
+2025-10-13 19:28:23,368 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-on-the-Social-Disorganization-in-Brgy.-Koronadal-Polomolok-South-Cotabato-18-January-2021-6PM.docx
+2025-10-13 19:28:23,368 — INFO — ✅ Saved as: DSWD-DROMIC-Report-on-the-Social-Disorganization-in-Brgy.-Koronadal-Polomolok-South-Cotabato-18-January-2021-6PM.docx
+2025-10-13 19:28:30,779 — INFO — Tropical Depression “Vicky” [18 Dec 2020] [TERMINATED]
+2025-10-13 19:28:31,173 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-Tropical-Depression-VICKY-as-of-15-January-2021-6PM.docx
+2025-10-13 19:28:31,174 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-Tropical-Depression-VICKY-as-of-15-January-2021-6PM.docx
+2025-10-13 19:28:38,588 — INFO — Flashflood Incident in Davao City [19 Oct 2020]
+2025-10-13 19:28:38,946 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Flashflood-Incident-in-Davao-City-14-January-2021-6PM.docx
+2025-10-13 19:28:38,947 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Flashflood-Incident-in-Davao-City-14-January-2021-6PM.docx
+2025-10-13 19:28:40,742 — INFO — 
+📄 Processing page 3...
+2025-10-13 19:28:40,748 — INFO — Found 20 posts on this page.
+2025-10-13 19:28:47,297 — INFO — Fire Incident in Bunot, Paracelis, Mountain Province [08 Oct2020]
+2025-10-13 19:28:47,659 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-on-the-Fire-Incident-in-Bunot-Paracelis-Mountain-Province-11-January-2021-6PM.docx
+2025-10-13 19:28:47,660 — INFO — ✅ Saved as: DSWD-DROMIC-Report-on-the-Fire-Incident-in-Bunot-Paracelis-Mountain-Province-11-January-2021-6PM.docx
+2025-10-13 19:28:56,105 — INFO — Northeast Monsoon Enhanced by Tropical Depression “VICKY” [18 Dec 2020] [TERMINATED]
+2025-10-13 19:28:56,508 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-Northeast-Monsoon-Enhanced-by-Tropical-Depression-VICKY-08-January-2021-6PM.docx
+2025-10-13 19:28:56,509 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-Northeast-Monsoon-Enhanced-by-Tropical-Depression-VICKY-08-January-2021-6PM.docx
+2025-10-13 19:29:03,974 — INFO — Mw 6.2 Earthquake Incident in Sarangani, Davao Occidental [16 December 2020]
+2025-10-13 19:29:04,377 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-1-on-the-Mw-6.2-Earthquake-Incident-in-Sarangani-Davao-Occidental-as-of-30-December-2020-6PM.docx
+2025-10-13 19:29:04,378 — INFO — ✅ Saved as: DSWD-DROMIC-Report-1-on-the-Mw-6.2-Earthquake-Incident-in-Sarangani-Davao-Occidental-as-of-30-December-2020-6PM.docx
+2025-10-13 19:29:11,878 — INFO — Fire Incident in Brgy. Boulevard, Molo, Iloilo City [24 Nov 2020]
+2025-10-13 19:29:12,246 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-1-on-the-Fire-Incident-in-Brgy.-Boulevard-Molo-Iloilo-City-as-of-29-December-2020-6PM.docx
+2025-10-13 19:29:12,247 — INFO — ✅ Saved as: DSWD-DROMIC-Report-1-on-the-Fire-Incident-in-Brgy.-Boulevard-Molo-Iloilo-City-as-of-29-December-2020-6PM.docx
+2025-10-13 19:29:19,751 — INFO — Armed Conflict in Brgy. Aguas, Rizal, Occidental Mindoro [14 Dec 2020]
+2025-10-13 19:29:20,117 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-on-the-Armed-Conflict-in-Brgy.-Aguas-Rizal-Occidental-Mindoro-29-December-2020-6PM.docx
+2025-10-13 19:29:20,118 — INFO — ✅ Saved as: DSWD-DROMIC-Report-on-the-Armed-Conflict-in-Brgy.-Aguas-Rizal-Occidental-Mindoro-29-December-2020-6PM.docx
+2025-10-13 19:29:27,552 — INFO — Fire Incident in Brgy. Leon Garcia Garcia Sr., Agdao District, Davao City [03 Sept 2020][Terminated]
+2025-10-13 19:29:27,917 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Leon-Garcia-Garcia-Sr.-Agdao-District-Davao-City-29-December-2020-6PM.docx
+2025-10-13 19:29:27,918 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Leon-Garcia-Garcia-Sr.-Agdao-District-Davao-City-29-December-2020-6PM.docx
+2025-10-13 19:29:35,395 — INFO — Fire Incident in Brgy. Lapu-Lapu, Agdao District, Davao City [27 September 2020][Terminated]
+2025-10-13 19:29:35,761 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Lapu-Lapu-Agdao-District-Davao-City-28-December-2020-6PM.docx
+2025-10-13 19:29:35,762 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Lapu-Lapu-Agdao-District-Davao-City-28-December-2020-6PM.docx
+2025-10-13 19:29:43,259 — INFO — Armed Conflict in Brgy. Gregorio Pelaez, Gitagum, Misamis Oriental [18 Dec 2020][Terminated]
+2025-10-13 19:29:43,624 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Armed-Conflict-in-Brgy.-Gregorio-Pelaez-Gitagum-Misamis-Orientalas-28-December-2020-6PM.docx
+2025-10-13 19:29:43,625 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Armed-Conflict-in-Brgy.-Gregorio-Pelaez-Gitagum-Misamis-Orientalas-28-December-2020-6PM.docx
+2025-10-13 19:29:51,061 — INFO — Flashflood Incident in Sta. Maria, Davao Occidental [23 Dec 2020]
+2025-10-13 19:29:51,429 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-1-on-the-Flashflood-Incident-in-Sta.-Maria-Davao-Occidental-as-of-24-December-2020-6PM.docx
+2025-10-13 19:29:51,430 — INFO — ✅ Saved as: DSWD-DROMIC-Report-1-on-the-Flashflood-Incident-in-Sta.-Maria-Davao-Occidental-as-of-24-December-2020-6PM.docx
+2025-10-13 19:29:59,913 — INFO — Flashflood and Landslide Incident in Davao Region [18 Dec 2020]
+2025-10-13 19:30:00,282 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-1-on-the-Flashflood-and-Landslide-Incident-in-Davao-Region-as-of-24-December-2020-6PM.docx
+2025-10-13 19:30:00,282 — INFO — ✅ Saved as: DSWD-DROMIC-Report-1-on-the-Flashflood-and-Landslide-Incident-in-Davao-Region-as-of-24-December-2020-6PM.docx
+2025-10-13 19:30:07,789 — INFO — Fire Incident in Brgy. Pahina Central, Cebu City [13 November 2020][Terminated]
+2025-10-13 19:30:08,155 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Pahina-Central-Cebu-City-23-December-2020-6PM.docx
+2025-10-13 19:30:08,156 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Pahina-Central-Cebu-City-23-December-2020-6PM.docx
+2025-10-13 19:30:15,655 — INFO — Fire Incident in Brgy. Poblacion, Cordova, Cebu [27 Nov 2020][Terminated]
+2025-10-13 19:30:16,039 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Poblacion-Cordova-Cebu-23-December-2020-6PM.docx
+2025-10-13 19:30:16,040 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Poblacion-Cordova-Cebu-23-December-2020-6PM.docx
+2025-10-13 19:30:23,521 — INFO — Fire Incident in Brgy. San Pedro, Molo, Iloilo City [11 Nov 2020] [Terminated]
+2025-10-13 19:30:23,883 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-San-Pedro-Molo-Iloilo-City-22-December-2020-6PM.docx
+2025-10-13 19:30:23,883 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-San-Pedro-Molo-Iloilo-City-22-December-2020-6PM.docx
+2025-10-13 19:30:31,319 — INFO — Armed Conflict in Brgys. Awasian and Pangi, Tandag City, Surigao del Sur [16 Oct 2020
+2025-10-13 19:30:31,692 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-1-on-the-Armed-Conflict-in-Brgys.-Awasian-and-Pangi-Tandag-City-Surigao-Del-Sur-as-of-18-December-2020-6PM.docx
+2025-10-13 19:30:31,692 — INFO — ✅ Saved as: DSWD-DROMIC-Report-1-on-the-Armed-Conflict-in-Brgys.-Awasian-and-Pangi-Tandag-City-Surigao-Del-Sur-as-of-18-December-2020-6PM.docx
+2025-10-13 19:30:39,170 — INFO — Tail-End of a Frontal System (Shear Line) [28 Nov 2020] [Terminated]
+2025-10-13 19:30:39,576 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Tail-End-of-a-Frontal-System-Shear-Line-22-December-2020-6PM.docx
+2025-10-13 19:30:39,576 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Tail-End-of-a-Frontal-System-Shear-Line-22-December-2020-6PM.docx
+2025-10-13 19:30:47,109 — INFO — Flooding Incident in Cebu Province due to LPA [02 Dec 2020][Terminated]
+2025-10-13 19:30:47,481 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Flooding-Incident-in-Cebu-Province-due-to-LPA-17-December-2020-6PM.docx
+2025-10-13 19:30:47,481 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Flooding-Incident-in-Cebu-Province-due-to-LPA-17-December-2020-6PM.docx
+2025-10-13 19:30:54,983 — INFO — Fire Incident in Barangay Camandag, Asipulo Ifugao [14 Dec 2020][Terminated]
+2025-10-13 19:30:55,346 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-on-the-Fire-Incident-in-Barangay-Camandag-Asipulo-Ifugao-14-December-2020-6PM.docx
+2025-10-13 19:30:55,346 — INFO — ✅ Saved as: DSWD-DROMIC-Report-on-the-Fire-Incident-in-Barangay-Camandag-Asipulo-Ifugao-14-December-2020-6PM.docx
+2025-10-13 19:31:03,939 — INFO — Fire Incident in Brgy. Rizal, Estanzuela, Iloilo City [26 Sep 2020]
+2025-10-13 19:31:04,331 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Rizal-Estanzuela-Iloilo-City-14-December-2020-6PM.docx
+2025-10-13 19:31:04,338 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Rizal-Estanzuela-Iloilo-City-14-December-2020-6PM.docx
+2025-10-13 19:31:11,819 — INFO — Fire Incident in Brgy. 43, Pasay City [14 Dec 2020]
+2025-10-13 19:31:12,194 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-1-on-the-Fire-Incident-in-Brgy.-43-Pasay-City-as-of-14-December-2020-6PM.docx
+2025-10-13 19:31:12,194 — INFO — ✅ Saved as: DSWD-DROMIC-Report-1-on-the-Fire-Incident-in-Brgy.-43-Pasay-City-as-of-14-December-2020-6PM.docx
+2025-10-13 19:31:19,687 — INFO — Effects of the Tail End of a Cold Front [9 November 2020]
+2025-10-13 19:31:20,116 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Effects-of-the-Tail-End-of-a-Cold-Front-11-December-2020-6PM.docx
+2025-10-13 19:31:20,117 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Effects-of-the-Tail-End-of-a-Cold-Front-11-December-2020-6PM.docx
+2025-10-13 19:31:21,918 — INFO — 
+📄 Processing page 4...
+2025-10-13 19:31:21,924 — INFO — Found 20 posts on this page.
+2025-10-13 19:31:28,163 — INFO — Effects of the Tail End of a Cold Front [9 November 2020]
+2025-10-13 19:31:28,581 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Effects-of-the-Tail-End-of-a-Cold-Front-11-December-2020-6PM.docx
+2025-10-13 19:31:28,581 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Effects-of-the-Tail-End-of-a-Cold-Front-11-December-2020-6PM.docx
+2025-10-13 19:31:36,960 — INFO — Flashflood Incident in Kabacan and Pikit, North Cotabato [14 Oct 2020][Terminated]
+2025-10-13 19:31:37,398 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Flashflood-Incident-in-Kabacan-and-Pikit-North-Cotabato-03-December-2020-6PM.docx
+2025-10-13 19:31:37,399 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Flashflood-Incident-in-Kabacan-and-Pikit-North-Cotabato-03-December-2020-6PM.docx
+2025-10-13 19:31:44,870 — INFO — Flashflood Incident in Palimbang, Sultan Kudarat [15 Sep 2020][Terminated]
+2025-10-13 19:31:45,263 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Flashflood-Incident-in-Palimbang-Sultan-Kudarat-03-December-2020-6PM.docx
+2025-10-13 19:31:45,269 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Flashflood-Incident-in-Palimbang-Sultan-Kudarat-03-December-2020-6PM.docx
+2025-10-13 19:31:52,776 — INFO — Tornado Incident in Lambayong, Sultan Kudarat [22 Sep 2020] [TERMINATED]
+2025-10-13 19:31:53,180 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Tornado-Incident-in-Lambayong-Sultan-Kudarat-03-December-2020-6PM.docx
+2025-10-13 19:31:53,181 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Tornado-Incident-in-Lambayong-Sultan-Kudarat-03-December-2020-6PM.docx
+2025-10-13 19:32:00,607 — INFO — Fire Incident in Brgy. Taculing, Bacolod City, Negros Occidental [04 September 2020][Terminated]
+2025-10-13 19:32:01,002 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Taculing-Bacolod-City-Negros-Occidental-28-November-2020-6PM.docx
+2025-10-13 19:32:01,003 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Taculing-Bacolod-City-Negros-Occidental-28-November-2020-6PM.docx
+2025-10-13 19:32:08,495 — INFO — Fire Incident in Brgy. Ortiz, Iloilo City [15 May 2020][Terminated]
+2025-10-13 19:32:08,932 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Ortiz-Iloilo-City-28-November-2020-6PM.docx
+2025-10-13 19:32:08,932 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Ortiz-Iloilo-City-28-November-2020-6PM.docx
+2025-10-13 19:32:16,323 — INFO — Flashflood Incident in Zamboanga City [12 Nov 2020]
+2025-10-13 19:32:16,696 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-1-on-the-Flashflood-Incident-in-Zamboanga-City-as-of-27-November-2020-6PM.docx
+2025-10-13 19:32:16,697 — INFO — ✅ Saved as: DSWD-DROMIC-Report-1-on-the-Flashflood-Incident-in-Zamboanga-City-as-of-27-November-2020-6PM.docx
+2025-10-13 19:32:24,097 — INFO — Fire Incident in Brgy. Ignacio, Butuan City [02 Oct 2020] Terminated]
+2025-10-13 19:32:24,476 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Ignacio-Butuan-City-27-November-2020-6PM.docx
+2025-10-13 19:32:24,477 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Ignacio-Butuan-City-27-November-2020-6PM.docx
+2025-10-13 19:32:31,892 — INFO — Effects of Southwest Monsoon [12 June 2020][Terminated]
+2025-10-13 19:32:32,277 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Effects-of-Southwest-Monsoon-27-November-2020-6PM.docx
+2025-10-13 19:32:32,277 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Effects-of-Southwest-Monsoon-27-November-2020-6PM.docx
+2025-10-13 19:32:39,721 — INFO — Flashflood Incident in Pikit North Cotabato [31 Oct 2020]
+2025-10-13 19:32:40,122 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-on-the-Flashflood-Incident-in-Pikit-North-Cotabato-21-November-2020-6PM.docx
+2025-10-13 19:32:40,123 — INFO — ✅ Saved as: DSWD-DROMIC-Report-on-the-Flashflood-Incident-in-Pikit-North-Cotabato-21-November-2020-6PM.docx
+2025-10-13 19:32:47,583 — INFO — Flashflood Incident in Makilala, North Cotabato [20 Oct 2020]
+2025-10-13 19:32:47,959 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-2-on-the-Flashflood-Incident-in-Makilala-North-Cotabato-as-of-21-November-2020-6PM.docx
+2025-10-13 19:32:47,960 — INFO — ✅ Saved as: DSWD-DROMIC-Report-2-on-the-Flashflood-Incident-in-Makilala-North-Cotabato-as-of-21-November-2020-6PM.docx
+2025-10-13 19:32:50,467 — INFO — Fire Incident in Purok Lunoy, Northern Junob, Dumaguete City [21 September 2020] [Terminated]
+2025-10-13 19:32:50,885 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Purok-Lunoy-Northern-Junob-Dumaguete-City-07-November-2020-4PM.docx
+2025-10-13 19:32:50,885 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Purok-Lunoy-Northern-Junob-Dumaguete-City-07-November-2020-4PM.docx
+2025-10-13 19:32:53,307 — INFO — Armed Conflict in Quezon, Bukidnon [08 October 2020] [Terminated]
+2025-10-13 19:32:53,693 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-on-the-Armed-Conflict-in-Quezon-Bukidnon-06-November-2020-4PM.docx
+2025-10-13 19:32:53,694 — INFO — ✅ Saved as: DSWD-DROMIC-Report-on-the-Armed-Conflict-in-Quezon-Bukidnon-06-November-2020-4PM.docx
+2025-10-13 19:33:01,188 — INFO — Fire Incident in Barangays Alima and Sineguelasan, Bacoor City, Cavite [1 Nov 2020
+2025-10-13 19:33:01,572 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-on-the-Fire-Incident-in-Barangays-Alima-and-Sineguelasan-Bacoor-City-Cavite-05-November-2020-4PM.docx
+2025-10-13 19:33:01,573 — INFO — ✅ Saved as: DSWD-DROMIC-Report-on-the-Fire-Incident-in-Barangays-Alima-and-Sineguelasan-Bacoor-City-Cavite-05-November-2020-4PM.docx
+2025-10-13 19:33:09,069 — INFO — Flooding Incident in Pigcawayan, North Cotabato [17 October 2020]
+2025-10-13 19:33:09,461 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-1-on-the-Flooding-Incident-in-Pigcawayan-Maguindanao-as-of-31-October-2020-6PM.docx
+2025-10-13 19:33:09,461 — INFO — ✅ Saved as: DSWD-DROMIC-Report-1-on-the-Flooding-Incident-in-Pigcawayan-Maguindanao-as-of-31-October-2020-6PM.docx
+2025-10-13 19:33:11,878 — INFO — Heavy Rainfall due to Frontal System [25 Oct 2020] [TERMINATED]
+2025-10-13 19:33:12,312 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-Heavy-Rainfall-due-to-Frontal-System-10-November-2020-6PM.docx
+2025-10-13 19:33:12,313 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-Heavy-Rainfall-due-to-Frontal-System-10-November-2020-6PM.docx
+2025-10-13 19:33:19,772 — INFO — Fire Incident in Brgy. North Daang Hari, Taguig City [14 October 2020][Terminated]
+2025-10-13 19:33:20,180 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-North-Daang-Hari-Taguig-City-29-October-2020-4PM.docx
+2025-10-13 19:33:20,181 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-North-Daang-Hari-Taguig-City-29-October-2020-4PM.docx
+2025-10-13 19:33:27,747 — INFO — Fire Incident in Brgy. 4, San Jose, Antique [27 Apr 2020][Terminated]
+2025-10-13 19:33:28,145 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-4-San-Jose-Antique-29-October-2020-4PM.docx
+2025-10-13 19:33:28,146 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-4-San-Jose-Antique-29-October-2020-4PM.docx
+2025-10-13 19:33:35,635 — INFO — Fire Incident in Barangay Panacan, Bunawan District, Davao City [27 August 2020][Terminated]
+2025-10-13 19:33:36,051 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Panacan-Bunawan-District-Davao-City-29-October-2020-6PM.docx
+2025-10-13 19:33:36,052 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Panacan-Bunawan-District-Davao-City-29-October-2020-6PM.docx
+2025-10-13 19:33:44,032 — INFO — Fire Incident in Brgy. San Andres, Cainta, Rizal [16 Oct 2020]
+2025-10-13 19:33:44,410 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-on-the-Fire-Incident-in-Brgy.-San-Andres-Cainta-Rizal-24-October-2020-6PM-1.docx
+2025-10-13 19:33:44,410 — INFO — ✅ Saved as: DSWD-DROMIC-Report-on-the-Fire-Incident-in-Brgy.-San-Andres-Cainta-Rizal-24-October-2020-6PM-1.docx
+2025-10-13 19:33:46,193 — INFO — 
+📄 Processing page 5...
+2025-10-13 19:33:46,199 — INFO — Found 20 posts on this page.
+2025-10-13 19:33:52,661 — INFO — Tropical Storm “PEPITO” [19 Oct 2020][Terminated]
+2025-10-13 19:33:53,057 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Tropical-Storm-PEPITO-26-October-2020-6PM.docx
+2025-10-13 19:33:53,057 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Tropical-Storm-PEPITO-26-October-2020-6PM.docx
+2025-10-13 19:34:00,532 — INFO — Flooding Incident in Licab, Nueva Ecija [11 Oct 2020]
+2025-10-13 19:34:00,911 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-1-on-the-Flooding-Incident-in-Licab-Nueva-Ecija-as-of-20-October-2020-6PM.docx
+2025-10-13 19:34:00,911 — INFO — ✅ Saved as: DSWD-DROMIC-Report-1-on-the-Flooding-Incident-in-Licab-Nueva-Ecija-as-of-20-October-2020-6PM.docx
+2025-10-13 19:34:09,459 — INFO — Flashflood incident in Zamboanga City, Zamboanga del Sur and Sibuco, Zamboanga del Norte [17 Oct 2020]
+2025-10-13 19:34:09,855 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-2-on-the-Flashflood-incident-in-Zamboanga-City-Zamboanga-del-Sur-and-Sibuco-Zamboanga-del-Norte-as-of-21-October-2020-4PM.docx
+2025-10-13 19:34:09,856 — INFO — ✅ Saved as: DSWD-DROMIC-Report-2-on-the-Flashflood-incident-in-Zamboanga-City-Zamboanga-del-Sur-and-Sibuco-Zamboanga-del-Norte-as-of-21-October-2020-4PM.docx
+2025-10-13 19:34:17,430 — INFO — Flashflood Incident in Lamitan, Basilan [15 October 2020]
+2025-10-13 19:34:17,855 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-1-on-the-FlashFlood-Incident-in-Lamitan-Basilan-as-of-17-October-2020-4PM.docx
+2025-10-13 19:34:17,856 — INFO — ✅ Saved as: DSWD-DROMIC-Report-1-on-the-FlashFlood-Incident-in-Lamitan-Basilan-as-of-17-October-2020-4PM.docx
+2025-10-13 19:34:25,331 — INFO — Fire Incident in Brgy. Ignacio, Butuan City [02 October 2020]
+2025-10-13 19:34:25,735 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-1-on-the-Fire-Incident-in-Brgy.-Ignacio-Butuan-City-as-of-16-October-2020-6PM.docx
+2025-10-13 19:34:25,736 — INFO — ✅ Saved as: DSWD-DROMIC-Report-1-on-the-Fire-Incident-in-Brgy.-Ignacio-Butuan-City-as-of-16-October-2020-6PM.docx
+2025-10-13 19:34:28,226 — INFO — Fire Incident in Brgys. Labogon and Paknaan, Mandaue City [09 Oct 2020] [TERMINATED]
+2025-10-13 19:34:28,626 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgys.-Labogon-and-Paknaan-Mandaue-City-Cebu-06-November-2020-4PM.docx
+2025-10-13 19:34:28,626 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgys.-Labogon-and-Paknaan-Mandaue-City-Cebu-06-November-2020-4PM.docx
+2025-10-13 19:34:36,108 — INFO — Tornado Incident in Brgy. Laguiben, Lagangilang, Abra [14 May 2020] [Terminated]
+2025-10-13 19:34:36,498 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-on-the-Tornado-Incident-in-Lagangilang-Abra-12-October-2020-6PM.docx
+2025-10-13 19:34:36,498 — INFO — ✅ Saved as: DSWD-DROMIC-Report-on-the-Tornado-Incident-in-Lagangilang-Abra-12-October-2020-6PM.docx
+2025-10-13 19:34:43,976 — INFO — Fire Incident in Brgy. Poblacion, Dolores, Abra [13 August 2020][Terminated]
+2025-10-13 19:34:44,338 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-on-the-Fire-Incident-in-Brgy.-Poblacion-Dolores-Abra-12-October-2020-6PM.docx
+2025-10-13 19:34:44,339 — INFO — ✅ Saved as: DSWD-DROMIC-Report-on-the-Fire-Incident-in-Brgy.-Poblacion-Dolores-Abra-12-October-2020-6PM.docx
+2025-10-13 19:34:51,793 — INFO — Effects of LPA and Southwest Monsoon [04 Oct 2020][Terminated]
+2025-10-13 19:34:52,180 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Effects-of-LPA-and-Southwest-Monsoon-16-October-2020-6PM.docx
+2025-10-13 19:34:52,181 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Effects-of-LPA-and-Southwest-Monsoon-16-October-2020-6PM.docx
+2025-10-13 19:34:59,625 — INFO — Fire Incident in Brgy. Campo Islam, Zamboanga City [30 September 2020]
+2025-10-13 19:35:00,002 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-1-on-the-Fire-Incident-in-Brgy.-Campo-Islam-Zamboanga-City-as-of-08-October-2020-4PM.docx
+2025-10-13 19:35:00,003 — INFO — ✅ Saved as: DSWD-DROMIC-Report-1-on-the-Fire-Incident-in-Brgy.-Campo-Islam-Zamboanga-City-as-of-08-October-2020-4PM.docx
+2025-10-13 19:35:02,443 — INFO — Effects of African Swine Fever [12 Aug 2020]
+2025-10-13 19:35:02,815 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-2-on-the-Effects-of-African-Swine-Fever-as-of-09-November-2020-4PM.docx
+2025-10-13 19:35:02,816 — INFO — ✅ Saved as: DSWD-DROMIC-Report-2-on-the-Effects-of-African-Swine-Fever-as-of-09-November-2020-4PM.docx
+2025-10-13 19:35:11,311 — INFO — Social Disorganization in Brgy. Mahagsay, Agusan del Sur [25 Jul 2020]
+2025-10-13 19:35:11,685 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-2-on-Social-Disorganization-in-Brgy.-Mahagsay-Agusan-del-Sur-as-of-14-October-2020-6PM.docx
+2025-10-13 19:35:11,686 — INFO — ✅ Saved as: DSWD-DROMIC-Report-2-on-Social-Disorganization-in-Brgy.-Mahagsay-Agusan-del-Sur-as-of-14-October-2020-6PM.docx
+2025-10-13 19:35:19,138 — INFO — Fire Incident in Brgy. Aurelio, San Jose, Dinagat Island [17 Sep 2020] [Terminated]
+2025-10-13 19:35:19,558 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Aurelio-San-Jose-Dinagat-Island-5-October-2020-6PM.docx
+2025-10-13 19:35:19,559 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Aurelio-San-Jose-Dinagat-Island-5-October-2020-6PM.docx
+2025-10-13 19:35:27,017 — INFO — Fire Incident in Brgy. 401, Sampaloc, Manila City [30 September 2020]
+2025-10-13 19:35:27,535 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-1-on-the-Fire-Incident-in-Brgy.-401-Sampaloc-Manila-City-as-of-01-October-2020-6PM.docx
+2025-10-13 19:35:27,536 — INFO — ✅ Saved as: DSWD-DROMIC-Report-1-on-the-Fire-Incident-in-Brgy.-401-Sampaloc-Manila-City-as-of-01-October-2020-6PM.docx
+2025-10-13 19:35:35,057 — INFO — Fire Incident in Brgy. Umilag, Lamut, Ifugao [10 Sep 2020] [Terminated]
+2025-10-13 19:35:35,448 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-on-the-Fire-Incident-in-Brgy.-Umilag-Lamut-Ifugao-01-October-2020-6PM.docx
+2025-10-13 19:35:35,449 — INFO — ✅ Saved as: DSWD-DROMIC-Report-on-the-Fire-Incident-in-Brgy.-Umilag-Lamut-Ifugao-01-October-2020-6PM.docx
+2025-10-13 19:35:42,938 — INFO — Flooding Incident in Brgy. Condes, Culasi, Antique [15 September 2020]
+2025-10-13 19:35:43,308 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-1-on-the-Flooding-Incident-in-Brgy.-Condes-Culasi-Antique-as-of-24-September-2020-4PM.docx
+2025-10-13 19:35:43,308 — INFO — ✅ Saved as: DSWD-DROMIC-Report-1-on-the-Flooding-Incident-in-Brgy.-Condes-Culasi-Antique-as-of-24-September-2020-4PM.docx
+2025-10-13 19:35:50,761 — INFO — Flashflood Incident in Bagumbayan, Sultan Kudarat [14 Sep 2020]
+2025-10-13 19:35:51,135 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-1-on-the-Flashflood-Incident-in-Bagumbayan-Sultan-Kudarat-as-of-23-September-2020-6PM.docx
+2025-10-13 19:35:51,141 — INFO — ✅ Saved as: DSWD-DROMIC-Report-1-on-the-Flashflood-Incident-in-Bagumbayan-Sultan-Kudarat-as-of-23-September-2020-6PM.docx
+2025-10-13 19:35:58,600 — INFO — Fire Incident in Purok Lunoy, Northern Junob, Dumaguete City [21 Sep 2020]
+2025-10-13 19:35:58,947 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-2-on-the-Fire-Incident-in-Purok-Lunoy-Northern-Junob-Dumaguete-City-of-29-Sep-2020-6PM.docx
+2025-10-13 19:35:58,950 — INFO — ✅ Saved as: DSWD-DROMIC-Report-2-on-the-Fire-Incident-in-Purok-Lunoy-Northern-Junob-Dumaguete-City-of-29-Sep-2020-6PM.docx
+2025-10-13 19:36:06,413 — INFO — Effects of Southwest Monsoon enhanced by Tropical Storm “LEON” [15 September 2020][Terminated]
+2025-10-13 19:36:06,797 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Effects-of-Southwest-Monsoon-enhanced-by-Tropical-Storm-LEON-23-September-2020-4PM.docx
+2025-10-13 19:36:06,798 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Effects-of-Southwest-Monsoon-enhanced-by-Tropical-Storm-LEON-23-September-2020-4PM.docx
+2025-10-13 19:36:15,279 — INFO — Social Disorganization in Matalam, North Cotabato [13 September 2020]
+2025-10-13 19:36:15,668 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-1-on-the-Social-Disorganization-in-Matalam-North-Cotabato-as-of-17-September-2020-6PM.docx
+2025-10-13 19:36:15,671 — INFO — ✅ Saved as: DSWD-DROMIC-Report-1-on-the-Social-Disorganization-in-Matalam-North-Cotabato-as-of-17-September-2020-6PM.docx
+2025-10-13 19:36:17,607 — INFO — 
+📄 Processing page 6...
+2025-10-13 19:36:17,613 — INFO — Found 20 posts on this page.
+2025-10-13 19:36:24,028 — INFO — Flashflood Incidentin Brgy.Talisayan, Zamboanga City [15 September 2020]
+2025-10-13 19:36:24,413 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-1-on-the-Flashflood-Incident-in-Brgy.-Talisayan-Zamboanga-City-as-of-17-September-2020-6PM.docx
+2025-10-13 19:36:24,414 — INFO — ✅ Saved as: DSWD-DROMIC-Report-1-on-the-Flashflood-Incident-in-Brgy.-Talisayan-Zamboanga-City-as-of-17-September-2020-6PM.docx
+2025-10-13 19:36:31,851 — INFO — Social Disorganization in Brgy. Mindupok, Maitum, Sarangani Province [11 Sep 2020]
+2025-10-13 19:36:32,240 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-1-on-the-Social-Disorganization-in-Brgy.-Mindupok-Maitum-Saranggani-Province-as-of-16-September-2020-6PM.docx
+2025-10-13 19:36:32,241 — INFO — ✅ Saved as: DSWD-DROMIC-Report-1-on-the-Social-Disorganization-in-Brgy.-Mindupok-Maitum-Saranggani-Province-as-of-16-September-2020-6PM.docx
+2025-10-13 19:36:39,723 — INFO — Fire Incident in Brgy. Tangke, Talisay City, Cebu [11 Sep 2020][Terminated]
+2025-10-13 19:36:40,079 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Tangke-Talisay-City-Cebu-29-September-2020-6PM.docx
+2025-10-13 19:36:40,080 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Tangke-Talisay-City-Cebu-29-September-2020-6PM.docx
+2025-10-13 19:36:47,513 — INFO — Fire Incident in Brgy. San Nicolas, Pasig City [16 May 2020] [Terminated]
+2025-10-13 19:36:47,890 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-San-Nicolas-Pasig-City-11-September-2020-4PM.docx
+2025-10-13 19:36:47,894 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-San-Nicolas-Pasig-City-11-September-2020-4PM.docx
+2025-10-13 19:36:55,311 — INFO — Fire Incident in Purok 3B, Brgy. 1, San Franciso, Agusan Del Sur [08 Sep 2020][Terminated]
+2025-10-13 19:36:55,712 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Purok-3B-Brgy.-1-San-Francisco-Agusan-Del-Sur-25-September-2020-4PM.docx
+2025-10-13 19:36:55,713 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Purok-3B-Brgy.-1-San-Francisco-Agusan-Del-Sur-25-September-2020-4PM.docx
+2025-10-13 19:37:03,195 — INFO — Armed Conflict in Sitio Canacan, Tamugan, Davao City [09 Sep 2020][Terminated]
+2025-10-13 19:37:03,587 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Armed-Conflict-in-Sitio-Canacan-Tamugan-Davao-City-29-October-2020-6PM.docx
+2025-10-13 19:37:03,588 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Armed-Conflict-in-Sitio-Canacan-Tamugan-Davao-City-29-October-2020-6PM.docx
+2025-10-13 19:37:11,046 — INFO — Fire Incident in Brgy. Longos, Pulilan, Bulacan [26 August 2020]
+2025-10-13 19:37:11,414 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-1-on-the-Fire-Incident-in-Brgy.-Longos-Pulilan-Bulacan-as-of-09-September-2020-4PM.docx
+2025-10-13 19:37:11,414 — INFO — ✅ Saved as: DSWD-DROMIC-Report-1-on-the-Fire-Incident-in-Brgy.-Longos-Pulilan-Bulacan-as-of-09-September-2020-4PM.docx
+2025-10-13 19:37:18,858 — INFO — Tornado Incident in Pulilan, Bulacan [06 July 2020] [Terminated]
+2025-10-13 19:37:19,230 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-on-the-Tornado-Incident-in-Pulilan-Bulacan-07-September-2020-4PM.docx
+2025-10-13 19:37:19,231 — INFO — ✅ Saved as: DSWD-DROMIC-Report-on-the-Tornado-Incident-in-Pulilan-Bulacan-07-September-2020-4PM.docx
+2025-10-13 19:37:26,734 — INFO — Armed Conflict in Brgy. Quintin Remo, Moises Padilla, Negros Occidental [13 August 2020][Terminated]
+2025-10-13 19:37:27,159 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-on-the-Armed-Conflict-in-Brgy.-Quintin-Remo-Moises-Padilla-Negros-Occidental-02-September-2020-6PM.docx
+2025-10-13 19:37:27,160 — INFO — ✅ Saved as: DSWD-DROMIC-Report-on-the-Armed-Conflict-in-Brgy.-Quintin-Remo-Moises-Padilla-Negros-Occidental-02-September-2020-6PM.docx
+2025-10-13 19:37:34,737 — INFO — Bombing Incident in Barangay Walled City, Jolo, Sulu [24 August 2020]
+2025-10-13 19:37:35,107 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-2-on-the-Bombing-Incident-in-Barangay-Walled-City-Jolo-Sulu-as-of-08-September-2020-4PM.docx
+2025-10-13 19:37:35,108 — INFO — ✅ Saved as: DSWD-DROMIC-Report-2-on-the-Bombing-Incident-in-Barangay-Walled-City-Jolo-Sulu-as-of-08-September-2020-4PM.docx
+2025-10-13 19:37:37,544 — INFO — Flashflood Incident in Brgy. Cadunan, Mabini, Davao De Oro [13 Aug 2020]
+2025-10-13 19:37:37,928 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-1-on-the-Flashflood-Incident-in-Brgy.-Cadunan-Mabini-Davao-De-Oro-formerly-Compostela-Valley-as-of-27-August-2020-4PM.docx
+2025-10-13 19:37:37,928 — INFO — ✅ Saved as: DSWD-DROMIC-Report-1-on-the-Flashflood-Incident-in-Brgy.-Cadunan-Mabini-Davao-De-Oro-formerly-Compostela-Valley-as-of-27-August-2020-4PM.docx
+2025-10-13 19:37:45,406 — INFO — Displacement due to Armed Conflict in Sevilla, Bohol [26 Jun 2020] [TERMINATED]
+2025-10-13 19:37:45,785 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Displacement-due-to-Armed-Conflict-in-Sevilla-Bohol-24-August-2020-4PM.docx
+2025-10-13 19:37:45,786 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Displacement-due-to-Armed-Conflict-in-Sevilla-Bohol-24-August-2020-4PM.docx
+2025-10-13 19:37:53,290 — INFO — Fire Incident in Brgy. Basa Dos Compound, Las Piñas City [22 Aug 2020] [TERMINATED]
+2025-10-13 19:37:53,659 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Basa-Dos-Compound-Las-Pinas-City-11-September-2020-4PM.docx
+2025-10-13 19:37:53,659 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Basa-Dos-Compound-Las-Pinas-City-11-September-2020-4PM.docx
+2025-10-13 19:38:01,114 — INFO — Whirlwind Incident in Tudela, Misamis Occidental [05 Aug 2020] [TERMINATED]
+2025-10-13 19:38:01,523 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-Terminal-Report-on-the-Whirlwind-Incident-in-Tudela-Misamis-Occidental-21-September-2020-4PM.docx
+2025-10-13 19:38:01,525 — INFO — ✅ Saved as: DSWD-DROMIC-Report-Terminal-Report-on-the-Whirlwind-Incident-in-Tudela-Misamis-Occidental-21-September-2020-4PM.docx
+2025-10-13 19:38:08,984 — INFO — Heavy Rainfall Accompanied with Strong Wind in Surallah, South Cotabato
+2025-10-13 19:38:09,366 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-1-on-the-Heavy-Rainfall-Accompanied-with-Strong-Wind-in-Surallah-South-Cotabato-as-of-19-August-2020-6PM.docx
+2025-10-13 19:38:09,367 — INFO — ✅ Saved as: DSWD-DROMIC-Report-1-on-the-Heavy-Rainfall-Accompanied-with-Strong-Wind-in-Surallah-South-Cotabato-as-of-19-August-2020-6PM.docx
+2025-10-13 19:38:17,883 — INFO — Displacement Due to Presence of Armed Lawless Elements in Brgy. Lumakil, Polomolok, South Cotabato [08 Aug 2020] [TERMINATED]
+2025-10-13 19:38:18,276 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Displacement-in-Brgy.-Lumakil-Polomolok-South-Cotabato-02-September-2020-6PM.docx
+2025-10-13 19:38:18,276 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Displacement-in-Brgy.-Lumakil-Polomolok-South-Cotabato-02-September-2020-6PM.docx
+2025-10-13 19:38:25,808 — INFO — Mw 6.6 Earthquake Incident in Cataingan, Masbate [18 Aug 2020] [TERMINATED]
+2025-10-13 19:38:26,310 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Mw-6.6-Earthquake-Incident-in-Cataingan-Masbate-09-September-2020-4PM.docx
+2025-10-13 19:38:26,311 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Mw-6.6-Earthquake-Incident-in-Cataingan-Masbate-09-September-2020-4PM.docx
+2025-10-13 19:38:33,755 — INFO — Fire Incident in Sitio Marooc, Loacan, Itogon, Benguet [16 June 2020]
+2025-10-13 19:38:34,164 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Sitio-Marooc-Loacan-Itogon-Benguet-as-of-14-August-2020-4PM.docx
+2025-10-13 19:38:34,166 — ERROR — ❌ Error downloading https://dromic.dswd.gov.ph/wp-content/uploads/2020/08/DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Sitio-Marooc-Loacan-Itogon-Benguet-as-of-14-August-2020-4PM.docx: [Errno 28] No space left on device
+2025-10-13 19:38:41,635 — INFO — Fire Incident in Sitio Kimpit, Amlimay, Buguias, Benguet [07 Jan 2020] [TERMINATED]
+2025-10-13 19:38:42,012 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Sitio-Kimpit-Amlimay-Buguias-Benguet-21-August-2020-6PM.docx
+2025-10-13 19:38:42,012 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Sitio-Kimpit-Amlimay-Buguias-Benguet-21-August-2020-6PM.docx
+2025-10-13 19:38:49,453 — INFO — Fire Incident in Banao, Natonin, Mountain Province [05 Jan 2020] [TERMINATED]
+2025-10-13 19:38:49,825 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Banao-Natonin-Mountain-Province-24-August-2020-4PM.docx
+2025-10-13 19:38:49,826 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Banao-Natonin-Mountain-Province-24-August-2020-4PM.docx
+2025-10-13 19:38:51,585 — INFO — 
+📄 Processing page 7...
+2025-10-13 19:38:51,590 — INFO — Found 20 posts on this page.
+2025-10-13 19:38:57,989 — INFO — Fire Incident in Brgy. Don Bosco, Parañaque City [12 August 2020] [Terminated]
+2025-10-13 19:38:58,361 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Don-Bosco-Paranaque-City-11-September-2020-4PM.docx
+2025-10-13 19:38:58,362 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Don-Bosco-Paranaque-City-11-September-2020-4PM.docx
+2025-10-13 19:39:05,819 — INFO — Fire Incident in Brgy. Inayawan, Cebu City [10 May 2020][Terminated]
+2025-10-13 19:39:06,193 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Inayawan-Cebu-City-13-August-2020-4PM.docx
+2025-10-13 19:39:06,194 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Inayawan-Cebu-City-13-August-2020-4PM.docx
+2025-10-13 19:39:13,633 — INFO — Social Disorganization in Barangay Macabenban, Carmen, North Cotabato [17 July 2020][Terminated]
+2025-10-13 19:39:14,020 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Social-Disorganization-in-Barangay-Macabenban-Carmen-North-Cotabato-28-August-2020-4PM.docx
+2025-10-13 19:39:14,020 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Social-Disorganization-in-Barangay-Macabenban-Carmen-North-Cotabato-28-August-2020-4PM.docx
+2025-10-13 19:39:22,487 — INFO — Fire Incident in Brgy. Sitio Labnac, Agtangao, Bangued, Abra [23 February 2020][Terminated]
+2025-10-13 19:39:22,863 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Sitio-Labnac-Agtangao-Bangued-Abra-10-August-2020-4PM.docx
+2025-10-13 19:39:22,864 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Sitio-Labnac-Agtangao-Bangued-Abra-10-August-2020-4PM.docx
+2025-10-13 19:39:30,346 — INFO — Fire Incident in Brgy. Kalunasan, Cebu City[17 March 2020][Terminated]
+2025-10-13 19:39:30,744 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Kalunasan-Cebu-City-10-August-2020-4PM.docx
+2025-10-13 19:39:30,744 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Kalunasan-Cebu-City-10-August-2020-4PM.docx
+2025-10-13 19:39:38,221 — INFO — Fire Incident in Brgy. Brgy.Pacgued, Malibcong, Abra [30 Jan. 2020][Terminated]
+2025-10-13 19:39:38,658 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Brgy.Pacgued-Malibcong-Abra-10-August-2020-4PM.docx
+2025-10-13 19:39:38,658 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Brgy.Pacgued-Malibcong-Abra-10-August-2020-4PM.docx
+2025-10-13 19:39:46,127 — INFO — Flashflood and Landslide Incident in Roseller Lim, Zamboanga Sibugay [31 July 2020]
+2025-10-13 19:39:46,497 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-2-on-the-Flashflood-and-Landslide-Incident-in-Roseller-Lim-Zamboanga-Sibugay-as-of-12-August-2020-4PM.docx
+2025-10-13 19:39:46,498 — INFO — ✅ Saved as: DSWD-DROMIC-Report-2-on-the-Flashflood-and-Landslide-Incident-in-Roseller-Lim-Zamboanga-Sibugay-as-of-12-August-2020-4PM.docx
+2025-10-13 19:39:54,034 — INFO — Armed Conflict in Brgy. Mandahican, Cabanglasan, Bukidnon [31 July 2020]
+2025-10-13 19:39:54,416 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-1-on-the-Armed-Conflict-in-Brgy.-Mandahican-Cabanglasan-Bukidnon-as-of-07-August-July-2020-6PM.docx
+2025-10-13 19:39:54,416 — INFO — ✅ Saved as: DSWD-DROMIC-Report-1-on-the-Armed-Conflict-in-Brgy.-Mandahican-Cabanglasan-Bukidnon-as-of-07-August-July-2020-6PM.docx
+2025-10-13 19:40:01,817 — INFO — Flooding Incident in Brgy. Los Amigos, Tugbok District, Davao City [04 Aug 2020] [Terminated]
+2025-10-13 19:40:02,214 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Flooding-Incident-in-Brgy.-Los-Amigos-Tugbok-District-Davao-City-07-September-2020-6PM.docx
+2025-10-13 19:40:02,214 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Flooding-Incident-in-Brgy.-Los-Amigos-Tugbok-District-Davao-City-07-September-2020-6PM.docx
+2025-10-13 19:40:09,838 — INFO — Flashflood Incident in Koronadal City [28 July 2020 ][Terminated]
+2025-10-13 19:40:10,556 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Flashflood-Incident-in-Koronadal-City-16-December-2020-6PM.docx
+2025-10-13 19:40:10,557 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Flashflood-Incident-in-Koronadal-City-16-December-2020-6PM.docx
+2025-10-13 19:40:18,017 — INFO — Fire Incident in Brgy. Tonsuya, Malabon [05 March 2020][Terminated]
+2025-10-13 19:40:18,491 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Tonsuya-Malabon-28-July-2020-4PM.docx
+2025-10-13 19:40:18,492 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Tonsuya-Malabon-28-July-2020-4PM.docx
+2025-10-13 19:40:26,917 — INFO — Tornado Incident in Brgy. Casili, Anao, Tarlac [25 June 2020][Terminated]
+2025-10-13 19:40:27,285 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Tornado-Incident-in-Brgy.-Casili-Anao-Tarlac-07-September-2020-4PM.docx
+2025-10-13 19:40:27,285 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Tornado-Incident-in-Brgy.-Casili-Anao-Tarlac-07-September-2020-4PM.docx
+2025-10-13 19:40:34,720 — INFO — Fire Incident in Brgys. Maunlad and Bagong Sikat, Puerto Princesa City, Palawan [22 Jul 2020] [TERMINATED]
+2025-10-13 19:40:35,114 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgys.-Maunlad-and-Bagong-Sikat-Puerto-Princesa-City-Palawan-25-August-2020-4PM.docx
+2025-10-13 19:40:35,115 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgys.-Maunlad-and-Bagong-Sikat-Puerto-Princesa-City-Palawan-25-August-2020-4PM.docx
+2025-10-13 19:40:42,531 — INFO — Fire Incident in Brgy. Looc. Dumaguete City [15 Jan 2020] [Terminated]
+2025-10-13 19:40:42,908 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-on-the-Fire-Incident-in-Brgy.-Looc-Dumaguete-City-24-July-2020-6PM.docx
+2025-10-13 19:40:42,910 — INFO — ✅ Saved as: DSWD-DROMIC-Report-on-the-Fire-Incident-in-Brgy.-Looc-Dumaguete-City-24-July-2020-6PM.docx
+2025-10-13 19:40:50,599 — INFO — Fire Incident in Brgy. Cogon, Tagbilaran City, Bohol [07 Jul 2020] [TERMINATED]
+2025-10-13 19:40:50,998 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Cogon-Tagbilaran-City-Bohol-14-August-2020-4PM.docx
+2025-10-13 19:40:51,000 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Cogon-Tagbilaran-City-Bohol-14-August-2020-4PM.docx
+2025-10-13 19:40:58,493 — INFO — Road Slip caused by Soil Erosion in Brgy. Landy, Sta. Cruz, Marinduque [01 July 2020]
+2025-10-13 19:40:58,911 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-1-on-the-Road-Slip-caused-by-Soil-Erosion-in-Brgy.-Landy-Sta.-Cruz-Marinduque-as-of-21-July-2020-6PM-A.docx
+2025-10-13 19:40:58,911 — INFO — ✅ Saved as: DSWD-DROMIC-Report-1-on-the-Road-Slip-caused-by-Soil-Erosion-in-Brgy.-Landy-Sta.-Cruz-Marinduque-as-of-21-July-2020-6PM-A.docx
+2025-10-13 19:41:06,367 — INFO — Fire Incident in Brgy. Poblacion, Tadian, Mt. Province [01 Jul 2020] [TERMINATED]
+2025-10-13 19:41:06,744 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-on-the-Fire-Incident-in-Brgy.-Poblacion-Tadian-Mt.-Province-21-July-2020-6PM-A.docx
+2025-10-13 19:41:06,745 — INFO — ✅ Saved as: DSWD-DROMIC-Report-on-the-Fire-Incident-in-Brgy.-Poblacion-Tadian-Mt.-Province-21-July-2020-6PM-A.docx
+2025-10-13 19:41:14,152 — INFO — Fire Incident in Orani, Bataan [04 March 2020] [Terminated]
+2025-10-13 19:41:14,550 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-on-the-Fire-Incident-in-Orani-Bataan-10-July-2020-6PM-A.docx
+2025-10-13 19:41:14,551 — INFO — ✅ Saved as: DSWD-DROMIC-Report-on-the-Fire-Incident-in-Orani-Bataan-10-July-2020-6PM-A.docx
+2025-10-13 19:41:21,995 — INFO — Fire Incident in Brgy. Cansojong, Talisay City [12 July 2020][Terminated]
+2025-10-13 19:41:22,367 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Cansojong-Talisay-City-29-September-2020-6PM.docx
+2025-10-13 19:41:22,368 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Cansojong-Talisay-City-29-September-2020-6PM.docx
+2025-10-13 19:41:30,877 — INFO — Fire Incident in Brgy.59 and 63, Caloocan South, Caloocan City [6 Feb 2020][Terminated]
+2025-10-13 19:41:31,258 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.59-and-63-Caloocan-South-Caloocan-City-13-July-2020-4PM.docx
+2025-10-13 19:41:31,259 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.59-and-63-Caloocan-South-Caloocan-City-13-July-2020-4PM.docx
+2025-10-13 19:41:33,096 — INFO — 
+📄 Processing page 8...
+2025-10-13 19:41:33,103 — INFO — Found 20 posts on this page.
+2025-10-13 19:41:39,497 — INFO — Fire Incident in Sampaloc IV, Dasmariñas City, Cavite [03 July 2020][Terminated]
+2025-10-13 19:41:39,876 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Sampaloc-IV-Dasmari%C3%B1as-City-Cavite-05-August-2020-6PM.docx
+2025-10-13 19:41:39,876 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Sampaloc-IV-Dasmari%C3%B1as-City-Cavite-05-August-2020-6PM.docx
+2025-10-13 19:41:47,363 — INFO — Flooding Incident in Roseller Lim, Zamboanga Sibugay [24 June 2020]
+2025-10-13 19:41:47,834 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-1-on-the-Flooding-Incident-in-Roseller-Lim-Zamboanga-Sibugay-as-of-06-Jul-2020-6PM.docx
+2025-10-13 19:41:47,835 — INFO — ✅ Saved as: DSWD-DROMIC-Report-1-on-the-Flooding-Incident-in-Roseller-Lim-Zamboanga-Sibugay-as-of-06-Jul-2020-6PM.docx
+2025-10-13 19:41:55,302 — INFO — Fire Incident in Brgy. Mayondon, Los Baños, Laguna [16 June 2020] [Terminated]
+2025-10-13 19:41:55,685 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Mayondon-Los-Ba%C3%B1os-Laguna-02-July-2020-4PM-A.docx
+2025-10-13 19:41:55,685 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Mayondon-Los-Ba%C3%B1os-Laguna-02-July-2020-4PM-A.docx
+2025-10-13 19:42:03,461 — INFO — Oil Spill Incident in Brgy. Obrero, Lapuz, Iloilo City [03 Jul 2020] [TERMINATED]
+2025-10-13 19:42:04,009 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Oil-Spill-Incident-in-Brgy.-Obrero-Lapuz-Iloilo-City-07-August-2020-6PM.docx
+2025-10-13 19:42:04,010 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Oil-Spill-Incident-in-Brgy.-Obrero-Lapuz-Iloilo-City-07-August-2020-6PM.docx
+2025-10-13 19:42:11,623 — INFO — Armed Conflict in Cabanglasan, Bukidnon[22 June 2020]
+2025-10-13 19:42:12,795 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-1-on-the-Armed-Conflict-in-Cabanglasan-Bukidnon-as-of-29-June-2020-4PM.docx
+2025-10-13 19:42:12,795 — INFO — ✅ Saved as: DSWD-DROMIC-Report-1-on-the-Armed-Conflict-in-Cabanglasan-Bukidnon-as-of-29-June-2020-4PM.docx
+2025-10-13 19:42:20,323 — INFO — Fire Incident in Kaumpurnah Zone II, Isabela City [03 June 2020]
+2025-10-13 19:42:20,694 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-1-on-the-Fire-Incident-in-Kaumpurnah-Zone-II-Isabela-City-as-of-26-June-2020-6PM.docx
+2025-10-13 19:42:20,695 — INFO — ✅ Saved as: DSWD-DROMIC-Report-1-on-the-Fire-Incident-in-Kaumpurnah-Zone-II-Isabela-City-as-of-26-June-2020-6PM.docx
+2025-10-13 19:42:28,231 — INFO — Armed Conflict in Mabini, Davao de Oro [18 March 2020][Terminated]
+2025-10-13 19:42:28,626 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Armed-Conflict-in-Mabini-Davao-de-Oro-02-September-2020-6PM.docx
+2025-10-13 19:42:28,628 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Armed-Conflict-in-Mabini-Davao-de-Oro-02-September-2020-6PM.docx
+2025-10-13 19:42:36,098 — INFO — Armed Conflict in Pikit, North Cotabato [07 June 2020][Terminated]
+2025-10-13 19:42:36,462 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Armed-Conflict-in-Pikit-North-Cotabato-16-December-2020-6PM.docx
+2025-10-13 19:42:36,462 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Armed-Conflict-in-Pikit-North-Cotabato-16-December-2020-6PM.docx
+2025-10-13 19:42:43,952 — INFO — Tornado Incident in Brgy. Patacbo, Basista, Pangasinan [14 May 2020] [Terminated]
+2025-10-13 19:42:44,328 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Tornado-Incident-in-Brgy.-Patacbo-Basista-Pangasinan-09-June-2020-6PM-1.docx
+2025-10-13 19:42:44,329 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Tornado-Incident-in-Brgy.-Patacbo-Basista-Pangasinan-09-June-2020-6PM-1.docx
+2025-10-13 19:42:51,779 — INFO — Bombing Incident in Datu Saudi Ampatuan, Maguindanao [22 May 2020] [Terminated]
+2025-10-13 19:42:52,157 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-on-the-Bombing-Incident-in-Datu-Saudi-Ampatuan-Maguindanao-08-June-2020-6PM.docx
+2025-10-13 19:42:52,157 — INFO — ✅ Saved as: DSWD-DROMIC-Report-on-the-Bombing-Incident-in-Datu-Saudi-Ampatuan-Maguindanao-08-June-2020-6PM.docx
+2025-10-13 19:42:59,852 — INFO — Fire Incident in Brgy. Sto. Cristo, Malolos City, Bulacan [22 May 2020][TERMINATED]
+2025-10-13 19:43:00,232 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Sto.-Cristo-Malolos-City-Bulacan-14-July-2020-4PM.docx
+2025-10-13 19:43:00,233 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Sto.-Cristo-Malolos-City-Bulacan-14-July-2020-4PM.docx
+2025-10-13 19:43:07,669 — INFO — Armed Conflict in Brgy. Kawayan, San Fernando, Bukidnon [22 May 2020][Terminated]
+2025-10-13 19:43:08,052 — INFO — ⬇️  Downloading Terminal-Report-on-the-Armed-Conflict-in-in-Brgy.-Kawayan-San-Fernando-Bukidnon-06-July-2020-6PM.docx
+2025-10-13 19:43:08,053 — INFO — ✅ Saved as: Terminal-Report-on-the-Armed-Conflict-in-in-Brgy.-Kawayan-San-Fernando-Bukidnon-06-July-2020-6PM.docx
+2025-10-13 19:43:15,550 — INFO — Fire Incident in Brgy. 130, Pasay City [17 May 2020][Terminated]
+2025-10-13 19:43:16,222 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-130-Pasay-City-03-August-2020-6PM.docx
+2025-10-13 19:43:16,223 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-130-Pasay-City-03-August-2020-6PM.docx
+2025-10-13 19:43:23,658 — INFO — Fire Incident in Brgy. 35, Caloocan City [22 May 2020][Terminated]
+2025-10-13 19:43:24,017 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-35-Caloocan-City-03-August-2020-6PM.docx
+2025-10-13 19:43:24,018 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-35-Caloocan-City-03-August-2020-6PM.docx
+2025-10-13 19:43:32,471 — INFO — Armed Conflict in Pikit, North Cotabato [09 May 2020][Terminated]
+2025-10-13 19:43:32,842 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Armed-Conflict-in-Pikit-North-Cotabato-16-December-2020-6PM-1.docx
+2025-10-13 19:43:32,843 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Armed-Conflict-in-Pikit-North-Cotabato-16-December-2020-6PM-1.docx
+2025-10-13 19:43:40,371 — INFO — Typhoon “Ambo” [10 May 2020]
+2025-10-13 19:43:40,736 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-Typhoon-%E2%80%9CAmbo%E2%80%9D-09-July-2020-6PM.docx
+2025-10-13 19:43:40,736 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-Typhoon-%E2%80%9CAmbo%E2%80%9D-09-July-2020-6PM.docx
+2025-10-13 19:43:48,165 — INFO — Social Disorganization in Lebak, Sultan Kudarat [02 May 2020] [Terminated]
+2025-10-13 19:43:48,532 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Social-Disorganization-in-Lebak-Sultan-Kudarat-29-June-2020-4PM.docx
+2025-10-13 19:43:48,533 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Social-Disorganization-in-Lebak-Sultan-Kudarat-29-June-2020-4PM.docx
+2025-10-13 19:43:56,034 — INFO — Armed Conflict in Brgy. Kidama, Matalam, North Cotabato [30 Apr 2020] [Terminated]
+2025-10-13 19:43:56,412 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Armed-Conflict-in-Brgy.-Kidama-Matalam-North-Cotabato-23-July-2020-6PM-A.docx
+2025-10-13 19:43:56,413 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Armed-Conflict-in-Brgy.-Kidama-Matalam-North-Cotabato-23-July-2020-6PM-A.docx
+2025-10-13 19:44:03,852 — INFO — Fire Incident in Maharlika Village, Taguig City [02 May 2020][Terminated]
+2025-10-13 19:44:04,226 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Maharlika-Village-Taguig-City-15-July-2020-4PM.docx
+2025-10-13 19:44:04,226 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Maharlika-Village-Taguig-City-15-July-2020-4PM.docx
+2025-10-13 19:44:11,748 — INFO — Tornado Incident in Brgy. Manambong Parte, Bayambang, Pangasinan [27 Apr 2020] [Terminated]
+2025-10-13 19:44:12,244 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Tornado-Incident-in-Brgy.-Manambong-Parte-Bayambang-Pangasinan-28-May-2020-6PM.docx
+2025-10-13 19:44:12,246 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Tornado-Incident-in-Brgy.-Manambong-Parte-Bayambang-Pangasinan-28-May-2020-6PM.docx
+2025-10-13 19:44:14,016 — INFO — 
+📄 Processing page 9...
+2025-10-13 19:44:14,023 — INFO — Found 20 posts on this page.
+2025-10-13 19:44:20,448 — INFO — Armed Conflict in Brgy. Camudlas, Bindoy, Negros Oriental [30 Apr 2020] [Terminated]
+2025-10-13 19:44:20,811 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Armed-Conflict-in-Brgy.-Camudlas-Bindoy-Negros-Oriental-19-May-2020-6PM.docx
+2025-10-13 19:44:20,812 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Armed-Conflict-in-Brgy.-Camudlas-Bindoy-Negros-Oriental-19-May-2020-6PM.docx
+2025-10-13 19:44:28,236 — INFO — Fire Incident in Brgy. 91, Tondo, Manila City [30 April 2020][Terminated]
+2025-10-13 19:44:28,608 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-91-Tondo-Manila-City-03-August-2020-6PM.docx
+2025-10-13 19:44:28,609 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-91-Tondo-Manila-City-03-August-2020-6PM.docx
+2025-10-13 19:44:36,109 — INFO — Fire Incident in Palmario Pilapil Brgy. Tonsuya, Malabon [29 April 2020][Terminated]
+2025-10-13 19:44:36,489 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Palmario-Pilapil-Brgy.-Tonsuya-Malabon-28-July-2020-4PM.docx
+2025-10-13 19:44:36,490 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Palmario-Pilapil-Brgy.-Tonsuya-Malabon-28-July-2020-4PM.docx
+2025-10-13 19:44:44,232 — INFO — Fire Incident in Brgy. 60, Tondo, Manila [26 Apr 2020][Terminated]
+2025-10-13 19:44:44,684 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-60-Tondo-Manila-03-August-2020-6PM.docx
+2025-10-13 19:44:44,685 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-60-Tondo-Manila-03-August-2020-6PM.docx
+2025-10-13 19:44:52,377 — INFO — Fire Incident in Brgy. Bagong Silang, Puerto Princesa City, Palawan [23 Apr 2020] [TERMINATED]
+2025-10-13 19:44:53,015 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Bagong-Silang-Puerto-Princesa-Palawan-21-October-2020-4PM.docx
+2025-10-13 19:44:53,017 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Bagong-Silang-Puerto-Princesa-Palawan-21-October-2020-4PM.docx
+2025-10-13 19:45:00,817 — INFO — Fire Incident in Brgy. Sabangan, San Juan, Abra [27 Mar 2020][Terminated]
+2025-10-13 19:45:01,391 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Sabangan-San-Juan-Abra-12-October-2020-6PM.docx
+2025-10-13 19:45:01,393 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Sabangan-San-Juan-Abra-12-October-2020-6PM.docx
+2025-10-13 19:45:08,980 — INFO — Fire Incident in Brgy. Bangbangar, Bangued, Abra [30 Mar 2020][TERMINATED]
+2025-10-13 19:45:09,429 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Bangbangar-Bangued-Abra-14-July-2020-4PM.docx
+2025-10-13 19:45:09,430 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Bangbangar-Bangued-Abra-14-July-2020-4PM.docx
+2025-10-13 19:45:17,446 — INFO — Fire Incident in Brgy. Sta. Lucia and Balangasan, Pagadian City, Zamboanga del Sur [14 March 2020] [Terminated]
+2025-10-13 19:45:17,790 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgys.-Sta.-Lucia-and-Balangasan-Pagadian-City-Zamboanga-del-Sur-14-August-2020-4PM.docx
+2025-10-13 19:45:17,791 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgys.-Sta.-Lucia-and-Balangasan-Pagadian-City-Zamboanga-del-Sur-14-August-2020-4PM.docx
+2025-10-13 19:45:25,256 — INFO — Fire Incident in Brgy. 76-A, Bucana, Davao City [21 Mar 2020][Terminated]
+2025-10-13 19:45:25,626 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-76-A-Bucana-Davao-City-13-October-2020-6PM.docx
+2025-10-13 19:45:25,627 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-76-A-Bucana-Davao-City-13-October-2020-6PM.docx
+2025-10-13 19:45:57,016 — INFO — Social Disorganization in Brgy. Diatagon, Lianga Surigao del Sur [21 Feb 2020] [TERMINATED]
+2025-10-13 19:45:57,376 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Social-Disorganization-in-Brgy.-Diatagon-Lianga-Surigao-del-Sur-10-June-2020-6PM.docx
+2025-10-13 19:45:57,377 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Social-Disorganization-in-Brgy.-Diatagon-Lianga-Surigao-del-Sur-10-June-2020-6PM.docx
+2025-10-13 19:46:04,804 — INFO — Fire Incident in Brgy. Don Bosco, Parañaque City [12 March 2020]
+2025-10-13 19:46:05,199 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Don-Bosco-Para%C3%B1aque-City-02-July-2020-4PM-1.docx
+2025-10-13 19:46:05,201 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Don-Bosco-Para%C3%B1aque-City-02-July-2020-4PM-1.docx
+2025-10-13 19:46:12,669 — INFO — Fire Incident in Brgy. Taglatawan, Bayugan City, Agusan del Sur [11 March 2020][Terminated]
+2025-10-13 19:46:13,055 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Taglatawan-Bayugan-City-Agusan-del-Sur-03-July-2020-4PM.docx
+2025-10-13 19:46:13,055 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Taglatawan-Bayugan-City-Agusan-del-Sur-03-July-2020-4PM.docx
+2025-10-13 19:46:20,474 — INFO — Fire Incident in Brgys. Ong Yiu and San Ignacio, Butuan City, Agusan del Norte [09 March 2020] [Terminated]
+2025-10-13 19:46:20,889 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgys.-Ong-Yiu-and-San-Ignacio-Butuan-City-Agusan-del-Norte-10-June-2020-6PM.docx
+2025-10-13 19:46:20,890 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgys.-Ong-Yiu-and-San-Ignacio-Butuan-City-Agusan-del-Norte-10-June-2020-6PM.docx
+2025-10-13 19:46:28,327 — INFO — Fire Incident in Lourdes Subdivision Extension, Baguio City [11 March 2020][Terminated]
+2025-10-13 19:46:28,729 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Lourdes-Subdivision-Extension-Baguio-City-12-October-2020-6PM.docx
+2025-10-13 19:46:28,730 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Lourdes-Subdivision-Extension-Baguio-City-12-October-2020-6PM.docx
+2025-10-13 19:46:37,202 — INFO — Fire Incident in Brgy. Basak San Nicolas, Cebu City [05 March 2020] [Terminated]
+2025-10-13 19:46:37,567 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Basak-San-Nicolas-Cebu-City-09-June-2020-6PM.docx
+2025-10-13 19:46:37,568 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Basak-San-Nicolas-Cebu-City-09-June-2020-6PM.docx
+2025-10-13 19:46:45,275 — INFO — Fire Incident in Brgy. Ibabao-Estancia, Mandaue City [29 Feb 2020] [TERMINATED]
+2025-10-13 19:46:45,663 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Ibabao-Estancia-Mandaue-City-05-August-2020-6PM.docx
+2025-10-13 19:46:45,664 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Ibabao-Estancia-Mandaue-City-05-August-2020-6PM.docx
+2025-10-13 19:46:53,116 — INFO — Fire Incident in Brgys. Apolonio Samson and Baesa, Quezon City [07 March 2020] [Terminated]
+2025-10-13 19:46:53,511 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgys.-Apolonio-Samson-and-Baesa-Quezon-City-11-September-2020-4PM.docx
+2025-10-13 19:46:53,512 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgys.-Apolonio-Samson-and-Baesa-Quezon-City-11-September-2020-4PM.docx
+2025-10-13 19:47:00,966 — INFO — Fire Incident in Brgy. Central, Baganga, Davao Oriental [08 March, 2020][Terminated]
+2025-10-13 19:47:01,360 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Central-Baganga-Davao-Oriental-13-October-2020-6PM.docx
+2025-10-13 19:47:01,361 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Central-Baganga-Davao-Oriental-13-October-2020-6PM.docx
+2025-10-13 19:47:08,827 — INFO — Fire Incident in Brgy. San Antonio, Parañaque City [Feb. 28, 2020][Terminated]
+2025-10-13 19:47:09,226 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-San-Antonio-Para%C3%B1aque-City-28-July-2020-4PM.docx
+2025-10-13 19:47:09,227 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-San-Antonio-Para%C3%B1aque-City-28-July-2020-4PM.docx
+2025-10-13 19:47:16,718 — INFO — Fire Incident in Brgy. Suba Pasil, Cebu City [26 Feb 2020] [Terminated]
+2025-10-13 19:47:17,143 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Suba-Pasil-Cebu-City-08-June-2020-6PM.docx
+2025-10-13 19:47:17,143 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Suba-Pasil-Cebu-City-08-June-2020-6PM.docx
+2025-10-13 19:47:19,002 — INFO — 
+📄 Processing page 10...
+2025-10-13 19:47:19,008 — INFO — Found 20 posts on this page.
+2025-10-13 19:47:25,431 — INFO — Fire Incident in Brgy. Antipona, Bocaue, Bulacan [11 Feb 2020] [Terminated]
+2025-10-13 19:47:25,858 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Antipona-Bocaue-Bulacan-13-March-2020-6PM.docx
+2025-10-13 19:47:25,859 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Antipona-Bocaue-Bulacan-13-March-2020-6PM.docx
+2025-10-13 19:47:33,316 — INFO — Fire Incident in Brgy. San Isidro, Parañaque City [18 Feb 2020] [Terminated]
+2025-10-13 19:47:33,743 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-San-Isidro-Para%C3%B1aque-City-14-March-2020-6PM.docx
+2025-10-13 19:47:33,743 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-San-Isidro-Para%C3%B1aque-City-14-March-2020-6PM.docx
+2025-10-13 19:47:42,394 — INFO — Fire Incident in Brgy. Tabok, Mandaue City [17 Feb 2020] [TERMINATED]
+2025-10-13 19:47:42,771 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Tabok-Mandaue-City-05-August-2020-6PM.docx
+2025-10-13 19:47:42,777 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Tabok-Mandaue-City-05-August-2020-6PM.docx
+2025-10-13 19:47:50,190 — INFO — Fire Incident in Brgy. Centro, Mandaue City [17 Feb 2020] [TERMINATED]
+2025-10-13 19:47:50,637 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Centro-Mandaue-City-05-August-2020-6PM.docx
+2025-10-13 19:47:50,638 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Centro-Mandaue-City-05-August-2020-6PM.docx
+2025-10-13 19:47:58,127 — INFO — Fire Incident in Brgy. Calindagan, Dumaguete City [12 Feb 2020] [Terminated]
+2025-10-13 19:47:58,528 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Calindagan-Dumaguete-City-15-March-2020-6PM.docx
+2025-10-13 19:47:58,528 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Calindagan-Dumaguete-City-15-March-2020-6PM.docx
+2025-10-13 19:48:05,955 — INFO — Fire Incident in Brgy. Poblacion, Magallanes, Agusan del Norte [03 Feb 2020] [Terminated]
+2025-10-13 19:48:06,348 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Poblacion-Magallanes-Agusan-del-Norte-10-March-2020-6PM.docx
+2025-10-13 19:48:06,348 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Poblacion-Magallanes-Agusan-del-Norte-10-March-2020-6PM.docx
+2025-10-13 19:48:13,777 — INFO — Fire Incident in Brgy. North Fairview, Quezon City [04 Feb. 2020][TERMINATED]
+2025-10-13 19:48:14,187 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-North-Fairview-Quezon-City-13-July-2020-4PM.docx
+2025-10-13 19:48:14,188 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-North-Fairview-Quezon-City-13-July-2020-4PM.docx
+2025-10-13 19:48:21,629 — INFO — Fire Incident in Brgy. 649, Manila City [05 Feb 2020] [Terminated]
+2025-10-13 19:48:22,046 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-649-Manila-City-12-March-2020-6PM.docx
+2025-10-13 19:48:22,047 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-649-Manila-City-12-March-2020-6PM.docx
+2025-10-13 19:48:29,511 — INFO — Fire Incident in Brgy. Matina Pangi, Davao City [03 Feb 2020] [TERMINATED]
+2025-10-13 19:48:29,911 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Matina-Pangi-Davao-City-16-October-2020-6PM.docx
+2025-10-13 19:48:29,912 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Matina-Pangi-Davao-City-16-October-2020-6PM.docx
+2025-10-13 19:48:37,352 — INFO — Fire Incident in Jolo, Sulu [03 Feb 2020]
+2025-10-13 19:48:37,784 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-3-on-the-Fire-Incident-in-Jolo-Sulu-as-of-20-February-2020-6PM.docx
+2025-10-13 19:48:37,785 — INFO — ✅ Saved as: DSWD-DROMIC-Report-3-on-the-Fire-Incident-in-Jolo-Sulu-as-of-20-February-2020-6PM.docx
+2025-10-13 19:48:54,408 — INFO — Taal Volcano Eruption [13 Jan 2020]
+2025-10-13 19:48:55,658 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-70-on-the-Taal-Volcano-Eruption-as-of-7-September-2020-4PM.docx
+2025-10-13 19:48:55,658 — INFO — ✅ Saved as: DSWD-DROMIC-Report-70-on-the-Taal-Volcano-Eruption-as-of-7-September-2020-4PM.docx
+2025-10-13 19:49:03,144 — INFO — Fire Incident in Brgy. 35, Bacolod City [29 Jan 2020] [TERMINATED]
+2025-10-13 19:49:03,581 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-35-Bacolod-City-20-February-2020-6PM.docx
+2025-10-13 19:49:03,581 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-35-Bacolod-City-20-February-2020-6PM.docx
+2025-10-13 19:49:11,063 — INFO — Fire Incident in Brgy. Kasambagan, Cebu City [26 Jan 2020] [TERMINATED]
+2025-10-13 19:49:11,465 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Kasambagan-Cebu-City-08-June-2020-6PM.docx
+2025-10-13 19:49:11,466 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Kasambagan-Cebu-City-08-June-2020-6PM.docx
+2025-10-13 19:49:18,901 — INFO — Fire Incident in Brgy. Mahogany, Butuan City [26 Jan 2020] [TERMINATED]
+2025-10-13 19:49:19,329 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Mahogany-Butuan-City-24-February-2020-6PM.docx
+2025-10-13 19:49:19,330 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Mahogany-Butuan-City-24-February-2020-6PM.docx
+2025-10-13 19:49:26,792 — INFO — Fire Incident in Brgy. Duljo Fatima, Cebu City [02 Jan 2020] [TERMINATED]
+2025-10-13 19:49:27,203 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Duljo-Fatima-Cebu-City-18-February-2020-6PM.docx
+2025-10-13 19:49:27,204 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Duljo-Fatima-Cebu-City-18-February-2020-6PM.docx
+2025-10-13 19:49:34,658 — INFO — Fire Incident in Brgy. 4, San Francisco, Agusan del Sur [22 Jan 2020] [TERMINATED]
+2025-10-13 19:49:35,110 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-4-San-Francisco-Agusan-del-Sur-07-February-2020-6PM.docx
+2025-10-13 19:49:35,111 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-4-San-Francisco-Agusan-del-Sur-07-February-2020-6PM.docx
+2025-10-13 19:49:42,542 — INFO — Fire Incident in Brgy. Commonwealth, Quezon City [03 Nov 2019] [TERMINATED]
+2025-10-13 19:49:42,970 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-on-the-Fire-Incident-in-Brgy.-Commonwealth-Quezon-City-21-January-2020-6PM-A-1.docx
+2025-10-13 19:49:42,971 — INFO — ✅ Saved as: DSWD-DROMIC-Report-on-the-Fire-Incident-in-Brgy.-Commonwealth-Quezon-City-21-January-2020-6PM-A-1.docx
+2025-10-13 19:49:50,383 — INFO — Fire Incident in Brgy. Sto. Domingo, Quezon City [19 Jan 2020] [TERMINATED]
+2025-10-13 19:49:50,815 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Sto.-Domingo-Quezon-City-28-July-2020-4PM.docx
+2025-10-13 19:49:50,816 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Sto.-Domingo-Quezon-City-28-July-2020-4PM.docx
+2025-10-13 19:49:58,278 — INFO — Fire Incident in Brgy. Luz, Cebu City [13 Jan 2020] [TERMINATED]
+2025-10-13 19:49:58,679 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Luz-Cebu-City-09-June-2020-6PM.docx
+2025-10-13 19:49:58,680 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Luz-Cebu-City-09-June-2020-6PM.docx
+2025-10-13 19:50:06,191 — INFO — Fire Incident in Brgys. 222 and 230, Manila City [16 Jan 2020]
+2025-10-13 19:50:06,641 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-222-and-230-Manila-City-27-January-2020-6PM.docx
+2025-10-13 19:50:06,642 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-222-and-230-Manila-City-27-January-2020-6PM.docx
+2025-10-13 19:50:08,435 — INFO — 
+📄 Processing page 11...
+2025-10-13 19:50:08,442 — INFO — Found 9 posts on this page.
+2025-10-13 19:50:14,908 — INFO — Fire Incident in Brgy. Almanza Uno, Las Piñas City [14 Jan 2020] [TERMINATED]
+2025-10-13 19:50:15,312 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Almanza-Uno-Las-Pi%C3%B1as-City-29-July-2020-4PM.docx
+2025-10-13 19:50:15,315 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Almanza-Uno-Las-Pi%C3%B1as-City-29-July-2020-4PM.docx
+2025-10-13 19:50:22,769 — INFO — Fire Incident in Brgy. Poblacion, Talisay City [07 Jan 2020]
+2025-10-13 19:50:23,200 — INFO — ⬇️  Downloading DSWD-DROMIC-Report-1-on-the-Fire-Incident-in-Brgy.-Poblacion-Talisay-City-as-of-16-January-2020-6AM-1.docx
+2025-10-13 19:50:23,200 — INFO — ✅ Saved as: DSWD-DROMIC-Report-1-on-the-Fire-Incident-in-Brgy.-Poblacion-Talisay-City-as-of-16-January-2020-6AM-1.docx
+2025-10-13 19:50:30,628 — INFO — Fire Incident in Purok 2, Brgy. 5-A, Davao City [15 Jan 2019] [TERMINATED]
+2025-10-13 19:50:31,048 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Purok-2-Brgy.-5-A-Davao-City-22-September-2020-4PM.docx
+2025-10-13 19:50:31,048 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Purok-2-Brgy.-5-A-Davao-City-22-September-2020-4PM.docx
+2025-10-13 19:50:38,466 — INFO — Fire Incident in Brgy. Bacayao Norte, Dagupan City [14 Dec 2019] [TERMINATED]
+2025-10-13 19:50:38,887 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Bacayao-Norte-Dagupan-City-25-January-2020-6PM.docx
+2025-10-13 19:50:38,888 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-Bacayao-Norte-Dagupan-City-25-January-2020-6PM.docx
+2025-10-13 19:51:09,311 — INFO — Fire Incident in Brgy. 833, Pandacan, Manila [28 Dec 2019] [TERMINATED]
+2025-10-13 19:51:09,664 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-833-Pandacan-Manila-13-July-2020-4PM-1.docx
+2025-10-13 19:51:09,665 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-833-Pandacan-Manila-13-July-2020-4PM-1.docx
+2025-10-13 19:51:17,127 — INFO — Fire Incident in Brgy. 145, Pasay City [28 Dec 2019][TERMINATED]
+2025-10-13 19:51:17,499 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-145-Pasay-City-14-July-2020-4PM.docx
+2025-10-13 19:51:17,500 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-145-Pasay-City-14-July-2020-4PM.docx
+2025-10-13 19:51:24,986 — INFO — Fire Incident in Brgy. 20, Parola, Tondo, Manila [29 Dec 2019] [TERMINATED]
+2025-10-13 19:51:25,443 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-20-Parola-Tondo-Manila-13-July-2020-4PM.docx
+2025-10-13 19:51:25,443 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-20-Parola-Tondo-Manila-13-July-2020-4PM.docx
+2025-10-13 19:51:32,911 — INFO — Fire Incident in Brgy. 776, Sta. Ana, Manila [01 Jan 2020] [TERMINATED]
+2025-10-13 19:51:33,323 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-776-Sta.-Ana-Manila-03-August-2020-6PM.docx
+2025-10-13 19:51:33,324 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Fire-Incident-in-Brgy.-776-Sta.-Ana-Manila-03-August-2020-6PM.docx
+2025-10-13 19:51:40,780 — INFO — Tail-End of a Cold Front [27 Dec 2019] [TERMINATED]
+2025-10-13 19:51:41,255 — INFO — ⬇️  Downloading DSWD-DROMIC-Terminal-Report-on-the-Tail-End-of-a-Cold-Front-06-July-2020-6PM.docx
+2025-10-13 19:51:41,257 — INFO — ✅ Saved as: DSWD-DROMIC-Terminal-Report-on-the-Tail-End-of-a-Cold-Front-06-July-2020-6PM.docx
+2025-10-13 19:51:52,429 — INFO — 
+✅ All pages processed.

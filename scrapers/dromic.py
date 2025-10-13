@@ -9,7 +9,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import logging
 import sys
 from datetime import datetime
-from urllib.parse import unquote
+from urllib.parse import urlparse, parse_qs, unquote
 
 # === Setup logging ===
 LOG_FILE = f"scraper_log_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt"
@@ -26,8 +26,8 @@ logging.basicConfig(
 
 log = logging.getLogger()
 
-BASE_URL = "https://dromic.dswd.gov.ph/category/situation-reports/2019"  # starting list page
-DOWNLOAD_DIR = "../data/dromic/2019"
+BASE_URL = "https://dromic.dswd.gov.ph/category/situation-reports/2021"  # starting list page
+DOWNLOAD_DIR = "../data/dromic/2021"
 os.makedirs(DOWNLOAD_DIR, exist_ok=True)
 
 # === Setup Selenium ===
@@ -47,12 +47,25 @@ driver.get(BASE_URL)
 # === Helpers ===
 
 def make_direct_download_link(url: str):
-    """Convert Google Docs 'edit' link to a direct .docx export URL if applicable."""
+    """
+    Convert Google Docs links (edit/viewer) or viewer wrappers into a direct file URL.
+    """
+    # Case 1: Google Docs "document/d/" edit link → export
     if "/document/d/" in url:
         file_id = url.split("/document/d/")[1].split("/")[0]
         return f"https://docs.google.com/document/d/{file_id}/export?format=docx"
-    return url
 
+    # Case 2: Google viewer wrapper → extract actual file URL from query
+    if "docs.google.com/viewer" in url:
+        parsed = urlparse(url)
+        qs = parse_qs(parsed.query)
+        if "url" in qs:
+            actual_url = unquote(qs["url"][0])
+            log.info(f"🔍 Extracted direct file URL: {actual_url}")
+            return actual_url
+
+    # Default: return as-is
+    return url
 def download_file(url: str, filename_hint: str = None):
     """Download a file, preserving the actual filename from the server or URL."""
     try:
@@ -78,12 +91,14 @@ def download_file(url: str, filename_hint: str = None):
             elif match_normal:
                 filename = unquote(match_normal.group(1))
 
+        print(f"filename_hint: {filename_hint}, filename: {filename}, url: {url}")
         # --- If still no filename, use last part of URL ---
         if not filename:
+            print("getting filname from url")
             filename = os.path.basename(url.split("?")[0])
 
         # --- Only if *still* no filename (very rare), fall back to hint ---
-        if not filename or filename.lower() in ("", "download", "viewer"):
+        if not filename or filename.lower() in ("", "download", "viewer", "open in new tab"):
             filename = filename_hint or f"downloaded_{int(time.time())}"
 
         # Only sanitize illegal filesystem characters (not spaces)
@@ -123,6 +138,12 @@ def extract_first_download_link():
         ".wp-block-file a[href]",
         "p.embed_download a[href]",
     ]
+
+    # print title
+
+    title = driver.find_element(By.CSS_SELECTOR, "h1.post-title")
+    log.info(f"{title.text.strip()}")
+    
     for sel in selectors:
         elems = driver.find_elements(By.CSS_SELECTOR, sel)
         if elems:
