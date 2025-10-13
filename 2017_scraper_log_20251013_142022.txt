@@ -1,0 +1,296 @@
+2025-10-13 14:20:25,309 — INFO — 
+📄 Processing page 1...
+2025-10-13 14:20:25,328 — INFO — Found 20 posts on this page.
+2025-10-13 14:20:34,153 — INFO — ⬇️  Downloading downloaded_file.pdf
+2025-10-13 14:20:34,753 — INFO — ✅ Saved: downloaded_file.pdf
+2025-10-13 14:20:38,351 — INFO — ⬇️  Downloading DSWD DROMIC Report #2 on the Armed Conflict in Tarragona, Davao Oriental as of 11 January 2018, 10 PM.docx
+2025-10-13 14:20:39,450 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1SvVqV33YLZ7Qj-VeJBpsPnXYrgQtepW6cLS7HtoFF6w/export?format=docx
+2025-10-13 14:20:56,429 — INFO — ⬇️  Downloading DSWD DROMIC Report #32 on Severe Tropical Storm VINTA as of 20 March 2018, 7PM.docx
+2025-10-13 14:21:06,339 — INFO — ✅ Saved: DSWD DROMIC Report #32 on Severe Tropical Storm VINTA as of 20 March 2018, 7PM.docx
+2025-10-13 14:21:08,845 — INFO — ⬇️  Downloading DSWD DROMIC Report #20 on TD URDUJA as of 26 December 2017, 11PM.docx
+2025-10-13 14:21:17,501 — INFO — ✅ Saved: DSWD DROMIC Report #20 on TD URDUJA as of 26 December 2017, 11PM.docx
+2025-10-13 14:21:34,971 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on TD URDUJA as of 06 April 2018, 6PM.docx
+2025-10-13 14:21:45,254 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on TD URDUJA as of 06 April 2018, 6PM.docx
+2025-10-13 14:21:50,072 — INFO — ⬇️  Downloading DSWD DROMIC Report #2 on the Fire Incident in Brgy Tandang Sora, Butuan City as of 12 December 2017, 7PM.docx
+2025-10-13 14:21:52,823 — INFO — ✅ Saved: DSWD DROMIC Report #2 on the Fire Incident in Brgy Tandang Sora, Butuan City as of 12 December 2017, 7PM.docx
+2025-10-13 14:21:55,860 — INFO — ⬇️  Downloading DSWD DROMIC Report #1 on the Armed Conflict in Lake Sebu, South Cotabato as of 7 December 2017, 9PM.docx
+2025-10-13 14:21:57,007 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1Y3dhoIy11NXPOs9E0HYwLkHGAK6njg8P6Vz7ATm2Cmg/export?format=docx
+2025-10-13 14:22:01,209 — INFO — ⬇️  Downloading DSWD DROMIC Report #1 on the Armed Conflict in Sultan Kudarat as of 06 December 2017, 4PM.docx
+2025-10-13 14:22:03,551 — INFO — ✅ Saved: DSWD DROMIC Report #1 on the Armed Conflict in Sultan Kudarat as of 06 December 2017, 4PM.docx
+2025-10-13 14:22:06,070 — INFO — ⬇️  Downloading DSWD DROMIC Report #7 on the Social Disorganization in Lianga, Surigao del Sur as of 7 December 2017, 7PM.docx
+2025-10-13 14:22:07,164 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1_09StEHfZElUkVVL-JOela-kstc8CMOrWeAKBbnjRKY/export?format=docx
+2025-10-13 14:22:11,804 — INFO — ⬇️  Downloading DSWD DROMIC Report #2 on the Fire Incident in Zone 7, Minipark, Fort Bonifacio, Taguig City as of 6 December 2017, 6PM.docx
+2025-10-13 14:22:14,766 — INFO — ✅ Saved: DSWD DROMIC Report #2 on the Fire Incident in Zone 7, Minipark, Fort Bonifacio, Taguig City as of 6 December 2017, 6PM.docx
+2025-10-13 14:22:17,785 — INFO — ⬇️  Downloading DSWD DROMIC Report #1 on the Fire Incident in Brgy. San Perpecto, San Juan City as of 1 December 2017, 6PM.docx
+2025-10-13 14:22:20,699 — INFO — ✅ Saved: DSWD DROMIC Report #1 on the Fire Incident in Brgy. San Perpecto, San Juan City as of 1 December 2017, 6PM.docx
+2025-10-13 14:22:25,757 — INFO — ⬇️  Downloading DSWD DROMIC Report #1 on the Fire Incident Report in Km. 11, Sasa, Davao City as of 29 November 2017, 6PM.docx
+2025-10-13 14:22:29,516 — INFO — ✅ Saved: DSWD DROMIC Report #1 on the Fire Incident Report in Km. 11, Sasa, Davao City as of 29 November 2017, 6PM.docx
+2025-10-13 14:22:35,380 — INFO — ⬇️  Downloading DSWD DROMIC Preparedness for Response Report #1 for Tropical Depression “TINO” as of 17 November 2017, 6PM.docx
+2025-10-13 14:22:38,663 — INFO — ✅ Saved: DSWD DROMIC Preparedness for Response Report #1 for Tropical Depression “TINO” as of 17 November 2017, 6PM.docx
+2025-10-13 14:22:44,522 — INFO — ⬇️  Downloading DSWD DROMIC Report #1 on the Armed Conflict in Maguindanao as of 17 November 2017, 8AM.docx
+2025-10-13 14:22:46,975 — INFO — ✅ Saved: DSWD DROMIC Report #1 on the Armed Conflict in Maguindanao as of 17 November 2017, 8AM.docx
+2025-10-13 14:22:50,501 — INFO — ⬇️  Downloading DSWD DROMIC Preparedness for Response Report #1 for the ASEAN Summit 2017 as of 15 November 2017, 4PM.docx
+2025-10-13 14:22:53,706 — INFO — ✅ Saved: DSWD DROMIC Preparedness for Response Report #1 for the ASEAN Summit 2017 as of 15 November 2017, 4PM.docx
+2025-10-13 14:22:58,604 — INFO — ⬇️  Downloading DSWD DROMIC Report #4 on TS “SALOME” as of 12 November 2017, 7AM.docx
+2025-10-13 14:23:01,754 — INFO — ✅ Saved: DSWD DROMIC Report #4 on TS “SALOME” as of 12 November 2017, 7AM.docx
+2025-10-13 14:23:05,065 — INFO — ⬇️  Downloading DSWD DROMIC Report #1 on the Continuous Rains in Region II as of 7 November 2017, 8AM.docx
+2025-10-13 14:23:08,069 — INFO — ✅ Saved: DSWD DROMIC Report #1 on the Continuous Rains in Region II as of 7 November 2017, 8AM.docx
+2025-10-13 14:23:11,380 — INFO — ⬇️  Downloading DSWD DROMIC Report #1 on the Fire Incident Report in Sto. Nino, Buhangin Proper, Davao City as of 6 November 2017, 4PM.docx
+2025-10-13 14:23:14,493 — INFO — ✅ Saved: DSWD DROMIC Report #1 on the Fire Incident Report in Sto. Nino, Buhangin Proper, Davao City as of 6 November 2017, 4PM.docx
+2025-10-13 14:23:18,141 — INFO — ⬇️  Downloading DSWD DROMIC Report #2 on the Fire Incident Report in Brgy. Zamora-Melliza, City Proper, Iloilo City as of 7 November 2017, 6PM.docx
+2025-10-13 14:23:21,095 — INFO — ✅ Saved: DSWD DROMIC Report #2 on the Fire Incident Report in Brgy. Zamora-Melliza, City Proper, Iloilo City as of 7 November 2017, 6PM.docx
+2025-10-13 14:23:27,084 — INFO — ⬇️  Downloading DSWD DROMIC Report #2 on the Fire Incident Report in Brgy. Benedicto, Jaro, Iloilo City as of 7 November 2017, 6PM.docx
+2025-10-13 14:23:30,090 — INFO — ✅ Saved: DSWD DROMIC Report #2 on the Fire Incident Report in Brgy. Benedicto, Jaro, Iloilo City as of 7 November 2017, 6PM.docx
+2025-10-13 14:23:31,951 — INFO — 
+📄 Processing page 2...
+2025-10-13 14:23:31,960 — INFO — Found 20 posts on this page.
+2025-10-13 14:23:34,268 — INFO — ⬇️  Downloading DSWD DROMIC Report #1 on the Fire Incident Report #1 in Buhangin, Davao City as of 2 November 2017, 6PM.docx
+2025-10-13 14:23:37,423 — INFO — ✅ Saved: DSWD DROMIC Report #1 on the Fire Incident Report #1 in Buhangin, Davao City as of 2 November 2017, 6PM.docx
+2025-10-13 14:23:41,034 — INFO — ⬇️  Downloading DSWD DROMIC Report #2 Landslide Incident in Boljoon, Cebu as of 6 November 2017, 7PM.docx
+2025-10-13 14:23:44,679 — INFO — ✅ Saved: DSWD DROMIC Report #2 Landslide Incident in Boljoon, Cebu as of 6 November 2017, 7PM.docx
+2025-10-13 14:23:50,065 — INFO — ⬇️  Downloading DSWD DROMIC Preparedness for Response Report #2 on TS “RAMIL” as of 02 November 2017, 6PM.docx
+2025-10-13 14:23:53,681 — INFO — ✅ Saved: DSWD DROMIC Preparedness for Response Report #2 on TS “RAMIL” as of 02 November 2017, 6PM.docx
+2025-10-13 14:23:58,958 — INFO — ⬇️  Downloading DSWD DROMIC Preparedness for Response Report #5 on the Observance of Undas 2017 as of 3 November 2017, 8AM.docx
+2025-10-13 14:24:03,115 — INFO — ✅ Saved: DSWD DROMIC Preparedness for Response Report #5 on the Observance of Undas 2017 as of 3 November 2017, 8AM.docx
+2025-10-13 14:24:06,575 — INFO — ⬇️  Downloading DSWD DROMIC Report #2 on the Fire Incident in Barangay 684, Zone 74, Paco Manila as of 30 October 2017, 8PM.docx
+2025-10-13 14:24:09,402 — INFO — ✅ Saved: DSWD DROMIC Report #2 on the Fire Incident in Barangay 684, Zone 74, Paco Manila as of 30 October 2017, 8PM.docx
+2025-10-13 14:24:13,040 — INFO — ⬇️  Downloading DSWD DROMIC Report #1 on the Fire Incident in Santolan, Pasig City as of 27 October 2017, 6PM.docx
+2025-10-13 14:24:15,973 — INFO — ✅ Saved: DSWD DROMIC Report #1 on the Fire Incident in Santolan, Pasig City as of 27 October 2017, 6PM.docx
+2025-10-13 14:24:19,593 — INFO — ⬇️  Downloading DSWD DROMIC Report #1 on the Fire Incident in Brgy. Carmen, Baguio District, Davao City as of 26 October 2017, 8PM.docx
+2025-10-13 14:24:22,607 — INFO — ✅ Saved: DSWD DROMIC Report #1 on the Fire Incident in Brgy. Carmen, Baguio District, Davao City as of 26 October 2017, 8PM.docx
+2025-10-13 14:24:28,010 — INFO — ⬇️  Downloading DSWD DROMIC Preparedness for Response Report #2 on STS “QUEDAN” as of 26 October 2017, 8PM (1).docx
+2025-10-13 14:24:31,671 — INFO — ✅ Saved: DSWD DROMIC Preparedness for Response Report #2 on STS “QUEDAN” as of 26 October 2017, 8PM (1).docx
+2025-10-13 14:24:34,403 — INFO — ⬇️  Downloading DSWD DROMIC Report #1 on the Earthquake Incident in Lian, Batangas as of 23 October 2017, 6PM.docx
+2025-10-13 14:24:35,535 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1KieGhW4glW9o1renM4t-PFuFvG7xlLjlkUsHwiuvMW0/export?format=docx
+2025-10-13 14:24:38,947 — INFO — ⬇️  Downloading DSWD DROMIC Report #1 on the Flooding Incident in the Province of Maguindanao as of 18 Oct 2017, 8PM.docx
+2025-10-13 14:24:42,645 — INFO — ✅ Saved: DSWD DROMIC Report #1 on the Flooding Incident in the Province of Maguindanao as of 18 Oct 2017, 8PM.docx
+2025-10-13 14:24:46,270 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Effects of Continuous Rain in CARAGA as of 19 Oct 2017, 4PM.docx
+2025-10-13 14:24:49,046 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on the Effects of Continuous Rain in CARAGA as of 19 Oct 2017, 4PM.docx
+2025-10-13 14:24:52,681 — INFO — ⬇️  Downloading DSWD DROMIC Report #1 on the Fire Incident Report #1 in Brgy 76-A, Davao City as of 18 October 2017, 6AM.docx
+2025-10-13 14:24:55,270 — INFO — ✅ Saved: DSWD DROMIC Report #1 on the Fire Incident Report #1 in Brgy 76-A, Davao City as of 18 October 2017, 6AM.docx
+2025-10-13 14:25:01,253 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Effects of Typhoon Paolo, 18 April 2018, 11AM.docx
+2025-10-13 14:25:04,890 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on the Effects of Typhoon Paolo, 18 April 2018, 11AM.docx
+2025-10-13 14:25:08,661 — INFO — ⬇️  Downloading DSWD DROMIC Report #3 on on the Flooding Incident in Region IX as of 20 October 2017 6AM.docx
+2025-10-13 14:25:11,896 — INFO — ✅ Saved: DSWD DROMIC Report #3 on on the Flooding Incident in Region IX as of 20 October 2017 6AM.docx
+2025-10-13 14:25:15,573 — INFO — ⬇️  Downloading DSWD DROMIC Report #1 Landslide Incident in Davao City as of 13 October 2017, 6PM.docx
+2025-10-13 14:25:18,476 — INFO — ✅ Saved: DSWD DROMIC Report #1 Landslide Incident in Davao City as of 13 October 2017, 6PM.docx
+2025-10-13 14:25:22,170 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on Severe Tropical Storm “ODETTE”, 26 October 2017, 6PM.docx
+2025-10-13 14:25:25,094 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on Severe Tropical Storm “ODETTE”, 26 October 2017, 6PM.docx
+2025-10-13 14:25:28,700 — INFO — ⬇️  Downloading DSWD DROMIC Report #2 on the Social Disorganization in South Upi, Maguindanao as of 13 October 2017, 6PM.docx
+2025-10-13 14:25:31,345 — INFO — ✅ Saved: DSWD DROMIC Report #2 on the Social Disorganization in South Upi, Maguindanao as of 13 October 2017, 6PM.docx
+2025-10-13 14:25:35,003 — INFO — ⬇️  Downloading DSWD DROMIC Report #2 on the Armed Conflict in Batangas City, Batangas as of 09 October 2017, 6PM.docx
+2025-10-13 14:25:37,970 — INFO — ✅ Saved: DSWD DROMIC Report #2 on the Armed Conflict in Batangas City, Batangas as of 09 October 2017, 6PM.docx
+2025-10-13 14:25:41,271 — INFO — ⬇️  Downloading DSWD DROMIC Report #2 on the Earthquake Incident in Wao, Lanao del Sur as of 3 October 2017, 6PM.docx
+2025-10-13 14:25:43,958 — INFO — ✅ Saved: DSWD DROMIC Report #2 on the Earthquake Incident in Wao, Lanao del Sur as of 3 October 2017, 6PM.docx
+2025-10-13 14:25:47,528 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Fire Incident in Brgy. Suba, Cebu City 25 September 2017 8PM.docx
+2025-10-13 14:25:50,153 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on the Fire Incident in Brgy. Suba, Cebu City 25 September 2017 8PM.docx
+2025-10-13 14:25:52,001 — INFO — 
+📄 Processing page 3...
+2025-10-13 14:25:52,014 — INFO — Found 20 posts on this page.
+2025-10-13 14:25:54,313 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on Tropical Depression “Nando” as of 6 April 2018, 4PM.docx
+2025-10-13 14:25:56,820 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on Tropical Depression “Nando” as of 6 April 2018, 4PM.docx
+2025-10-13 14:26:00,590 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Flooding Incident in Talomo-A District, Davao City as of 05 October 2017, 6PM.docx
+2025-10-13 14:26:03,728 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on the Flooding Incident in Talomo-A District, Davao City as of 05 October 2017, 6PM.docx
+2025-10-13 14:26:08,374 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on Typhoon Lannie as of 14 September 2017 1PM.docx
+2025-10-13 14:26:11,173 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on Typhoon Lannie as of 14 September 2017 1PM.docx
+2025-10-13 14:26:17,265 — INFO — ⬇️  Downloading DSWD DROMIC Report #8 on TS Maring as of 16 September 2017 8PM.docx
+2025-10-13 14:26:21,733 — INFO — ✅ Saved: DSWD DROMIC Report #8 on TS Maring as of 16 September 2017 8PM.docx
+2025-10-13 14:26:25,396 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Armed Conflict in Arakan North Cotabato as of 03 October 2017 6PM.docx
+2025-10-13 14:26:28,269 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on the Armed Conflict in Arakan North Cotabato as of 03 October 2017 6PM.docx
+2025-10-13 14:26:30,958 — WARNING — ⚠️  No downloadable link found on this post.
+2025-10-13 14:26:34,575 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Fire Incident in Brgy. Pardo, Cebu City 5 September 2017 8PM.docx
+2025-10-13 14:26:37,866 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on the Fire Incident in Brgy. Pardo, Cebu City 5 September 2017 8PM.docx
+2025-10-13 14:26:41,130 — INFO — ⬇️  Downloading DSWD DROMIC Report #1 on the Fire Incident at Sitio Almacen and Alceca, Brgy. Calamba, Cebu City as of 5 September 2017 8PM.docx
+2025-10-13 14:26:43,641 — INFO — ✅ Saved: DSWD DROMIC Report #1 on the Fire Incident at Sitio Almacen and Alceca, Brgy. Calamba, Cebu City as of 5 September 2017 8PM.docx
+2025-10-13 14:26:46,945 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on TD “Kiko” as of 11 September 2017, 6PM.docx
+2025-10-13 14:26:50,079 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on TD “Kiko” as of 11 September 2017, 6PM.docx
+2025-10-13 14:26:54,817 — INFO — ⬇️  Downloading DSWD DROMIC Report #3 on the Fire Incident in Brgy. Bagong Silang, Puerto Princesa City as of 05 September 2017, 6PM.docx
+2025-10-13 14:26:57,992 — INFO — ✅ Saved: DSWD DROMIC Report #3 on the Fire Incident in Brgy. Bagong Silang, Puerto Princesa City as of 05 September 2017, 6PM.docx
+2025-10-13 14:27:01,291 — INFO — ⬇️  Downloading DSWD DROMIC Report #1 on the Fire Incident in Brgy. Obrero, City of Butuan as of 02 September 2017, 6PM.docx
+2025-10-13 14:27:04,462 — INFO — ✅ Saved: DSWD DROMIC Report #1 on the Fire Incident in Brgy. Obrero, City of Butuan as of 02 September 2017, 6PM.docx
+2025-10-13 14:27:07,110 — INFO — ⬇️  Downloading DSWD DROMIC Report #1 on the Fire Incident in Bugac, Maa, Davao City as of 25 August 2017, 9PM.docx
+2025-10-13 14:27:08,221 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1S4Bf656nUryriP-lmWa-yxaaq8lmPbRhNf65UW6fiJc/export?format=docx
+2025-10-13 14:27:10,892 — INFO — ⬇️  Downloading DSWD DROMIC Report #1 on the Fire Incident in Brgy. Basak San Nicholas, Cebu City as of 25 August 2017, 9PM.docx
+2025-10-13 14:27:12,004 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1jTPxF25qmDndvThOdzGcb64v3EopB5r1fJfhW-Vl-AM/export?format=docx
+2025-10-13 14:27:14,683 — INFO — ⬇️  Downloading DSWD DROMIC Report #5 on TS “Jolina” as of 27 August 2017, 6PM.docx
+2025-10-13 14:27:15,838 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1YppBxlMfuRAIYgWsg9-V3cIABUt2rlGKq-N2LdgPjAU/export?format=docx
+2025-10-13 14:27:21,267 — INFO — ⬇️  Downloading DSWD DROMIC Report #1 on the Earthquake Incident in Leyte as of 24 August 2017, 7PM.docx
+2025-10-13 14:27:23,859 — INFO — ✅ Saved: DSWD DROMIC Report #1 on the Earthquake Incident in Leyte as of 24 August 2017, 7PM.docx
+2025-10-13 14:27:28,991 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Armed Conflict in Maguindanao as of 13 October 2017, 6PM.docx
+2025-10-13 14:27:32,109 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on the Armed Conflict in Maguindanao as of 13 October 2017, 6PM.docx
+2025-10-13 14:27:35,274 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Fire Incident in Brgy. Paknaan, Mandaue City, 30 August 2017, 6PM.docx
+2025-10-13 14:27:36,434 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1L8ZLAwYLuzlPk-d9G4oTWgiU-s6pHY_E3FFlI7cyHiA/export?format=docx
+2025-10-13 14:27:38,989 — INFO — ⬇️  Downloading DSWD DROMIC Report #1 on the Fire Incident in Brgy. Sto. Niño, Davao City as of 22 Aug 2017, 7PM.docx
+2025-10-13 14:27:40,276 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1S-lFphN12LYvaTYO2mmGrmA-9ICU_LEIPq-AzQkl8uQ/export?format=docx
+2025-10-13 14:27:42,983 — INFO — ⬇️  Downloading DSWD DROMIC Report #1 on the Fire Incident in Brgy. Sto. Nino, Zamboanga City as of 22 Aug 2017, 7PM.docx
+2025-10-13 14:27:44,078 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1vh106WsujVT4YYSHbnw-n0HpK9Ri8b_TvYDgjouFcG4/export?format=docx
+2025-10-13 14:27:47,541 — INFO — ⬇️  Downloading DSWD DROMIC Report #1 on the Fire Incident in Brgy. 105, Tondo, Manila as of 22 Aug 2017, 5PM.docx
+2025-10-13 14:27:50,390 — INFO — ✅ Saved: DSWD DROMIC Report #1 on the Fire Incident in Brgy. 105, Tondo, Manila as of 22 Aug 2017, 5PM.docx
+2025-10-13 14:27:52,259 — INFO — 
+📄 Processing page 4...
+2025-10-13 14:27:52,268 — INFO — Found 20 posts on this page.
+2025-10-13 14:27:55,716 — INFO — ⬇️  Downloading DSWD DROMIC Report #1 on the Fire Incident in Brgy. 704, Malate, Manila as of 22 Aug 2017, 5PM.docx
+2025-10-13 14:27:58,477 — INFO — ✅ Saved: DSWD DROMIC Report #1 on the Fire Incident in Brgy. 704, Malate, Manila as of 22 Aug 2017, 5PM.docx
+2025-10-13 14:28:02,033 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Fire Incident in Poblacion 7, Cotabato City 19 September 2017, 6PM.docx
+2025-10-13 14:28:04,819 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on the Fire Incident in Poblacion 7, Cotabato City 19 September 2017, 6PM.docx
+2025-10-13 14:28:07,510 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on Severe Tropical Storm “Isang” (I.N. Hato), 24 August 2017, 6PM.docx
+2025-10-13 14:28:08,629 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1znVA63250tDfQq_kI2Y0Lzuqep_-8JLwCpNz6uQg4Gc/export?format=docx
+2025-10-13 14:28:11,428 — INFO — ⬇️  Downloading DSWD DROMIC Report #1 on the Fire Incident at Sikap St., Brgy. San Miguel, Manila as of 17 August 2017, 8PM.docx
+2025-10-13 14:28:14,089 — INFO — ✅ Saved: DSWD DROMIC Report #1 on the Fire Incident at Sikap St., Brgy. San Miguel, Manila as of 17 August 2017, 8PM.docx
+2025-10-13 14:28:16,733 — INFO — ⬇️  Downloading DSWD DROMIC Report #3 on the Fire Incident in Brgy. Don Andres, Ipil, Zamboanga Sibugay as of 24 August 2017, 6PM.docx
+2025-10-13 14:28:19,241 — INFO — ✅ Saved: DSWD DROMIC Report #3 on the Fire Incident in Brgy. Don Andres, Ipil, Zamboanga Sibugay as of 24 August 2017, 6PM.docx
+2025-10-13 14:28:21,948 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Fire Incident at Gotamco, Brgy. Leon Garcia, Agdao, Davao City as of 19 September 2017, 6PM.docx
+2025-10-13 14:28:23,081 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1fUYzyafSLyJSusEc2DIR-Y7QpEyKufu114f_PpXPbfc/export?format=docx
+2025-10-13 14:28:26,423 — INFO — ⬇️  Downloading DSWD DROMIC Report #4 Fire Incident at Brgy. Diki, Malawi Island, Isabela City as of 18 August 2017, 8PM.docx
+2025-10-13 14:28:29,141 — INFO — ✅ Saved: DSWD DROMIC Report #4 Fire Incident at Brgy. Diki, Malawi Island, Isabela City as of 18 August 2017, 8PM.docx
+2025-10-13 14:28:32,581 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Flooding Incident in Cotabato City as of 08 August 2017, 6PM.docx
+2025-10-13 14:28:35,995 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on the Flooding Incident in Cotabato City as of 08 August 2017, 6PM.docx
+2025-10-13 14:28:39,371 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Armed Conflict in Guihulngan City, Negros Oriental, 31 July 2017, 7PM.docx
+2025-10-13 14:28:42,206 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on the Armed Conflict in Guihulngan City, Negros Oriental, 31 July 2017, 7PM.docx
+2025-10-13 14:28:45,776 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Fire Incident in Brgy. Calamba Cebu City, 10 August 2017, 9PM.docx
+2025-10-13 14:28:48,756 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on the Fire Incident in Brgy. Calamba Cebu City, 10 August 2017, 9PM.docx
+2025-10-13 14:28:52,174 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Fire Incident in Brgy. Subangdaku Mandaue City, 10 August 2017, 9PM.docx
+2025-10-13 14:28:54,854 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on the Fire Incident in Brgy. Subangdaku Mandaue City, 10 August 2017, 9PM.docx
+2025-10-13 14:28:58,215 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Flash Flood Incident in Ipil, Zamboanga Sibugay Province, 15 August 2017, 9PM.docx
+2025-10-13 14:29:00,761 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on the Flash Flood Incident in Ipil, Zamboanga Sibugay Province, 15 August 2017, 9PM.docx
+2025-10-13 14:29:06,535 — INFO — ⬇️  Downloading DSWD DROMIC Report 12 on the Effects of the Southwest Monsoon as of 14 August 2017 6PM.docx
+2025-10-13 14:29:11,428 — INFO — ✅ Saved: DSWD DROMIC Report 12 on the Effects of the Southwest Monsoon as of 14 August 2017 6PM.docx
+2025-10-13 14:29:17,158 — INFO — ⬇️  Downloading DSWD DROMIC Preparedness for Response Report #4 on Tropical Storm “Gorio” (I.N. Nesat) as of 28 July 2017, 5PM.docx
+2025-10-13 14:29:20,469 — INFO — ✅ Saved: DSWD DROMIC Preparedness for Response Report #4 on Tropical Storm “Gorio” (I.N. Nesat) as of 28 July 2017, 5PM.docx
+2025-10-13 14:29:24,318 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Armed Conflict in Arakan, North Cotabato.docx
+2025-10-13 14:29:27,279 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on the Armed Conflict in Arakan, North Cotabato.docx
+2025-10-13 14:29:30,818 — INFO — ⬇️  Downloading DSWD DROMIC Report #11 on the Earthquake Incident in Leyte as of 21 July 2017, 4PM.docx
+2025-10-13 14:29:33,987 — INFO — ✅ Saved: DSWD DROMIC Report #11 on the Earthquake Incident in Leyte as of 21 July 2017, 4PM.docx
+2025-10-13 14:29:37,527 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Fire Incident in Brgy. Rizal, Iloilo City, 22 August 2017, 4PM.docx
+2025-10-13 14:29:41,290 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on the Fire Incident in Brgy. Rizal, Iloilo City, 22 August 2017, 4PM.docx
+2025-10-13 14:29:44,789 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Tornado and Strong Wind in Negros Occidental as of 21 June 2017 6PM.docx
+2025-10-13 14:29:47,665 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on the Tornado and Strong Wind in Negros Occidental as of 21 June 2017 6PM.docx
+2025-10-13 14:29:50,771 — INFO — ⬇️  Downloading RESPONSE CLUSTER SITREP 7.13.2017.pptx
+2025-10-13 14:29:52,568 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/a/icab.gov.ph/presentation/d/1ch-vcMxkIsAyeaB-qkg8QQcJ2m8PCt-EAvXdacY-LpU/edit?usp=drivesdk
+2025-10-13 14:29:56,211 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Fire Incident at Tramo St. Brgy. 46 Pasay City 23 June 2017, 6PM.docx
+2025-10-13 14:29:57,376 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1Zs2B6Ss1vMWTKMnswduCQlZ6UvS72eYxc2K_rYOTb8g/export?format=docx
+2025-10-13 14:29:59,224 — INFO — 
+📄 Processing page 5...
+2025-10-13 14:29:59,232 — INFO — Found 20 posts on this page.
+2025-10-13 14:30:01,448 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Fire Incident in Purok Sampaguita Brgy 38 Bacolod City as of 20 June 2017 10AM.docx
+2025-10-13 14:30:04,260 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on the Fire Incident in Purok Sampaguita Brgy 38 Bacolod City as of 20 June 2017 10AM.docx
+2025-10-13 14:30:06,920 — INFO — ⬇️  Downloading DSWD DROMIC Report #2 on the Fire Incident in Mandaue City, Cebu as of 14 June 2017, 3PM.docx
+2025-10-13 14:30:08,141 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1Tl2ARybsV2bfCLSgpDmjIJioHKZ28yQ1BOp0DZ3B10s/export?format=docx
+2025-10-13 14:30:10,747 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Fire Incident in Paranaque City 23 June 2017 6PM.docx
+2025-10-13 14:30:11,814 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1XCBPeVmwuionpesBDUbdZouM4KeWOSzgXNmrX5d-CMQ/export?format=docx
+2025-10-13 14:30:14,523 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Fire Incident in Arevalo, Iloilo City, 16 August 2017 8PM.docx
+2025-10-13 14:30:15,723 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1ZDgPawDDtc-vIf3q73UEGhvbPuQ_wB2ZDN8ueqknlXE/export?format=docx
+2025-10-13 14:30:18,353 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Armed Conflict in Maguindanao 1 August 2017 7AM.docx
+2025-10-13 14:30:19,546 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/17t9v3jw5ZhJm6gqbkod-9cO3C7JIhFoE8z3rx88F0YU/export?format=docx
+2025-10-13 14:30:23,136 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Fire Incident in Puerto Princesa Palawan as of 05 August 2017 6AM.docx
+2025-10-13 14:30:26,155 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on the Fire Incident in Puerto Princesa Palawan as of 05 August 2017 6AM.docx
+2025-10-13 14:30:29,794 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Social Disorganization in Glan, Sarangani Province as of 13 June 2017, 6PM.docx
+2025-10-13 14:30:32,459 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on the Social Disorganization in Glan, Sarangani Province as of 13 June 2017, 6PM.docx
+2025-10-13 14:30:35,956 — INFO — ⬇️  Downloading DSWD DROMIC Report #3 on the Flooding Incident in Pikit North Cotabato as of 21 July 2017 1PM.docx
+2025-10-13 14:30:38,725 — INFO — ✅ Saved: DSWD DROMIC Report #3 on the Flooding Incident in Pikit North Cotabato as of 21 July 2017 1PM.docx
+2025-10-13 14:30:42,003 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Landslide Incident in Puerto Princesa Palawan as of 15 June 2017 1AM.docx
+2025-10-13 14:30:44,729 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on the Landslide Incident in Puerto Princesa Palawan as of 15 June 2017 1AM.docx
+2025-10-13 14:30:49,887 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Flooding Incident in Lambayong, Sultan Kudarat.docx
+2025-10-13 14:30:52,762 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on the Flooding Incident in Lambayong, Sultan Kudarat.docx
+2025-10-13 14:30:57,229 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Flooding Incident in Midsayap, North Cotabato.docx
+2025-10-13 14:31:00,157 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on the Flooding Incident in Midsayap, North Cotabato.docx
+2025-10-13 14:31:02,884 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Armed Conflict in Sirawai, Zamboanga del Norte 14 June 2017, 2PM.docx
+2025-10-13 14:31:03,907 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1G-f7iD8myrCP_Miscex60P4p2adKrH32rkAPZoN_aNM/export?format=docx
+2025-10-13 14:31:06,564 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Armed Conflict in Davao CIty as of 8 June 2017, 8PM.docx
+2025-10-13 14:31:07,722 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1oZh23Z9sjB0f3uxOjkYXDRsVGNON9Qru9gKD5HZsves/export?format=docx
+2025-10-13 14:31:16,629 — INFO — ⬇️  Downloading DSWD DROMIC Report #103 on the Armed Conflict in Marawi City as of 03 April 2018, 6PM.docx
+2025-10-13 14:31:20,652 — INFO — ✅ Saved: DSWD DROMIC Report #103 on the Armed Conflict in Marawi City as of 03 April 2018, 6PM.docx
+2025-10-13 14:31:24,236 — INFO — ⬇️  Downloading DSWD DROMIC Report #9 on the Flooding Incident in Maguindanao as of 21 June 2017, 7PM.docx
+2025-10-13 14:31:27,190 — INFO — ✅ Saved: DSWD DROMIC Report #9 on the Flooding Incident in Maguindanao as of 21 June 2017, 7PM.docx
+2025-10-13 14:31:31,143 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Fire Incident in Brgy. Pusok, Lapu-Lapu City, 17 August 2017, 7PM.docx
+2025-10-13 14:31:34,792 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on the Fire Incident in Brgy. Pusok, Lapu-Lapu City, 17 August 2017, 7PM.docx
+2025-10-13 14:31:37,466 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Fire Incident in Brgy. Labangon, Cebu City, 17 August 2017, 4PM.docx
+2025-10-13 14:31:38,646 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1vwkIY_xSZ8E4h4UFvYwJ-PNdKKXAOzDiG8CKeVttx8w/export?format=docx
+2025-10-13 14:31:41,323 — WARNING — ⚠️  No downloadable link found on this post.
+2025-10-13 14:31:45,107 — INFO — ⬇️  Downloading DSWD DROMIC Report #1 on the Fire Incident in Purok 7-B, Lower Madapo, Brgy. 5-A Bankerohan, Davao City as of 20 May 2017, 11AM.docx
+2025-10-13 14:31:48,194 — INFO — ✅ Saved: DSWD DROMIC Report #1 on the Fire Incident in Purok 7-B, Lower Madapo, Brgy. 5-A Bankerohan, Davao City as of 20 May 2017, 11AM.docx
+2025-10-13 14:31:51,833 — INFO — ⬇️  Downloading DSWD DROMIC Report #1 on the Flash Flood Incident in Brgy. Landan, Polomolok, South Cotabato as of 19 May 2017, 8PM.docx
+2025-10-13 14:31:55,597 — INFO — ✅ Saved: DSWD DROMIC Report #1 on the Flash Flood Incident in Brgy. Landan, Polomolok, South Cotabato as of 19 May 2017, 8PM.docx
+2025-10-13 14:31:57,523 — INFO — 
+📄 Processing page 6...
+2025-10-13 14:31:57,532 — INFO — Found 20 posts on this page.
+2025-10-13 14:32:01,161 — INFO — ⬇️  Downloading DSWD DROMIC Report #1 on the Flash Flood Incident in Glan, Sarangani Province due to Heavy Rains as of 14 May, 6pm.docx
+2025-10-13 14:32:01,728 — INFO — ✅ Saved: DSWD DROMIC Report #1 on the Flash Flood Incident in Glan, Sarangani Province due to Heavy Rains as of 14 May, 6pm.docx
+2025-10-13 14:32:05,530 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Armed Conflict in Maguindanao.docx
+2025-10-13 14:32:08,561 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on the Armed Conflict in Maguindanao.docx
+2025-10-13 14:32:11,203 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Armed Conflict in Calinan and Paquibato, Davao City as of 18 May 2017, 6PM.docx
+2025-10-13 14:32:12,294 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1OCU_fgfMP2yeKMPsUBicDYlwQHP_WcIguJsJLDfnQ74/export?format=docx
+2025-10-13 14:32:14,957 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Fire Incident in Brgy. 157, Pasay City as of 22 May 2017, 8PM.docx
+2025-10-13 14:32:16,133 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1Mbs-cfRAk0NUYI3fga7ihfuC66NC946L9bbQ4m0xquA/export?format=docx
+2025-10-13 14:32:18,806 — INFO — ⬇️  Downloading DSWD DROMIC Report #2 on the Tornado Incident in Rosales, Pangasinan as of 5 May 2017, 6PM.docx
+2025-10-13 14:32:19,946 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1UfeRaiSkqEzy-mDeVDGAmrTAo-FDlJyKpjZpcH8Su04/export?format=docx
+2025-10-13 14:32:23,693 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Earthquake Incident in Sarangani, Davao Occidental, 22 September 2017 2PM.docx
+2025-10-13 14:32:26,513 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on the Earthquake Incident in Sarangani, Davao Occidental, 22 September 2017 2PM.docx
+2025-10-13 14:32:29,663 — INFO — ⬇️  Downloading DSWD DROMIC Report #2 on the Armed Conflict in Piagapo, Lanao Del Sur as of 23 April 2017, 8PM.docx
+2025-10-13 14:32:30,855 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1tXg32kvLA6VqCZmFk5wybnLuvMOW-yZpjveWIoWOnKs/export?format=docx
+2025-10-13 14:32:33,502 — WARNING — ⚠️  No downloadable link found on this post.
+2025-10-13 14:32:36,172 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Observance of Semana Santa 2017 as of 19 April 2017, 7AM.docx
+2025-10-13 14:32:37,294 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1huDjUuyKD2JojRCefOclYg58qNCDNyjJtohjPZYuikk/export?format=docx
+2025-10-13 14:32:39,997 — INFO — ⬇️  Downloading DSWD DROMIC Report #1 on the Effects of a Low Pressure Area (former TD Crising) as of 17 April 2017, 1PM.docx
+2025-10-13 14:32:41,149 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1agAdJjThowilKBjr7tbmfg7wUdxsSpIzHt7_H-mOtcY/export?format=docx
+2025-10-13 14:32:44,927 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Armed Conflict in Inabanga, Bohol, 9 May 2017, 8PM.docx
+2025-10-13 14:32:48,152 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on the Armed Conflict in Inabanga, Bohol, 9 May 2017, 8PM.docx
+2025-10-13 14:32:51,914 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Fire Incident in Bacoor City, Cavite as of 15 August 2017, 9PM.docx
+2025-10-13 14:32:54,980 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on the Fire Incident in Bacoor City, Cavite as of 15 August 2017, 9PM.docx
+2025-10-13 14:32:59,580 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Earthquake Incident in Wao, Lanao del Sur as of 16 May 2017, 10PM.docx
+2025-10-13 14:33:02,961 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on the Earthquake Incident in Wao, Lanao del Sur as of 16 May 2017, 10PM.docx
+2025-10-13 14:33:08,139 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Earthquake Incident in Mabini, Batangas, 06 April 2018, 5PM.docx
+2025-10-13 14:33:11,809 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on the Earthquake Incident in Mabini, Batangas, 06 April 2018, 5PM.docx
+2025-10-13 14:33:14,496 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Fire Incident in Koronadal City, South Cotabato.docx
+2025-10-13 14:33:15,621 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1V4pUtq44EnmOO0iLyrPf55fMSvGDhCDip7WIkHYgTgk/export?format=docx
+2025-10-13 14:33:18,238 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Earthquake Incident in Tingloy, Batangas.docx
+2025-10-13 14:33:19,336 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/11M2zybrVibc88adORIJj42oUvOYR6642LCfqf-6rGqk/export?format=docx
+2025-10-13 14:33:21,939 — INFO — ⬇️  Downloading DSWD DROMIC Report #3 on the Armed Conflict in Mati City, Davao Oriental as of 11 April 2017, 6PM.docx
+2025-10-13 14:33:22,984 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1cZlo9OiVEPK_TsxZzjMRwRalFO_kX79ffYjdThTHIRQ/export?format=docx
+2025-10-13 14:33:26,211 — INFO — ⬇️  Downloading DSWD DROMIC Report #4 on the Fire Incident in Brgy. Tetuan, Zamboanga City as of 7 May 2017, 6PM.docx
+2025-10-13 14:33:27,246 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1s0xhxA4lwquP49ixT5Y5BAPo8sarNhmpRYnMxv7nBfU/export?format=docx
+2025-10-13 14:33:29,929 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Flash Flood Incident in General Santos City due to Heavy Rains.docx
+2025-10-13 14:33:31,197 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1MVefErICrV9Iwwnoh7kny54QMZZfMIFnU3jAAGtbeKw/export?format=docx
+2025-10-13 14:33:33,904 — INFO — ⬇️  Downloading DSWD DROMIC Report #5 on the Armed Conflict in Marilog District, Davao City as of 6 April 2017, 7PM.docx
+2025-10-13 14:33:35,038 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1BVFnfb7UvCryQHK0mq5D2HtqtAHsy3BNzIvcSZuCH6E/export?format=docx
+2025-10-13 14:33:36,987 — INFO — 
+📄 Processing page 7...
+2025-10-13 14:33:36,995 — INFO — Found 18 posts on this page.
+2025-10-13 14:33:38,666 — INFO — ⬇️  Downloading DSWD DROMIC Report #1 on the Armed Conflict in Tampakan, South Cotabato as of 25 March 2017, 4PM.docx
+2025-10-13 14:33:39,697 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/16ajcDSTStZ2OjhdEo7JYOWyqohY61wn-hgFFkh-lrVU/export?format=docx
+2025-10-13 14:33:42,370 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Armed Conflict in Antipas, North Cotabato as of 27 March 2017, 6PM.docx
+2025-10-13 14:33:43,631 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1WQzS1gCh-kCYzbCnLDTWL1lJ8WXmZRe9gdIsCeZrOGc/export?format=docx
+2025-10-13 14:33:46,254 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Armed Conflict in Kalamansig, Sultan Kudarat as of 4 April 2017, 8PM.docx
+2025-10-13 14:33:47,312 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1AwVzvobdHQLR8QQ_n4248hgTCCjKeFvvWPYqq5yl1Yo/export?format=docx
+2025-10-13 14:33:49,988 — INFO — ⬇️  Downloading DSWD DROMIC Report #1 on the Armed Conflict in Kitcharao, Agusan del Norte as of 17 March 2017, 8PM.docx
+2025-10-13 14:33:51,116 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1T2mRdH5vO2ybM5bEYJkbIXXzXFKIoiGq8Sz5BfrUPRY/export?format=docx
+2025-10-13 14:33:55,010 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Armed Conflict in Maguindanao, 29 March 2017, 7PM.docx
+2025-10-13 14:33:58,075 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on the Armed Conflict in Maguindanao, 29 March 2017, 7PM.docx
+2025-10-13 14:34:00,704 — INFO — ⬇️  Downloading DSWD DROMIC Report #2 on the Fire Incident in Brgys. Tisa and Labangon, Cebu City as of 27 February 2017 10PM.docx
+2025-10-13 14:34:01,881 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1t7ovxY262JwvhGD_xT2JZW6VRnlI42BsXDsivVUmQHg/export?format=docx
+2025-10-13 14:34:04,506 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Effects of a Tail-End of a Cold Front as of 26 March 2017, 12AM.docx
+2025-10-13 14:34:05,517 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/16_j9N16fahcxKFGdqOep_9X2JayqyPqemcWxw2A_ps4/export?format=docx
+2025-10-13 14:34:08,251 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Earthquake Incident in Surigao City, Surigao del Norte.docx
+2025-10-13 14:34:09,418 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/119wwVyxP7n8De_mNTHQfE3ek-pWatARkDsZMrm8EPH8/export?format=docx
+2025-10-13 14:34:12,016 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Fire Incident at HTI Pte. Ltd. in EPZA, General Trias City, Cavite as of 27 Feb 2017, 2PM.docx
+2025-10-13 14:34:13,063 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1drYxfV6fA9yU8PbCEzmo7P2tZpSmJy0peMWPUebcG-Y/export?format=docx
+2025-10-13 14:34:15,704 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Fire Incident at Sitio 6 Catmon and Riverside of Flovihomes Brgy. Tonsuya, Malabon as of 13 March 2017, 8PM.docx
+2025-10-13 14:34:16,857 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1kKtIt1-KbqvAPUz9EUTmNNQQx4XEEkonRzrvbupM-VE/export?format=docx
+2025-10-13 14:34:20,184 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Fire Incident at Area B Gate 10 Parola, Brgy. 20, Zone 2, District 1, Tondo, Manila 08 March 2017, 9AM.docx
+2025-10-13 14:34:23,046 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on the Fire Incident at Area B Gate 10 Parola, Brgy. 20, Zone 2, District 1, Tondo, Manila 08 March 2017, 9AM.docx
+2025-10-13 14:34:25,739 — INFO — ⬇️  Downloading DSWD DROMIC Preparedness Report FINAL on Tropical Depression BISING as of 11 Feb 2017, 6PM.docx
+2025-10-13 14:34:26,782 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1n83EgW6nI9oEArUETK1ik08XL7sJDj7y8NgoTgHMW4w/export?format=docx
+2025-10-13 14:34:29,532 — INFO — ⬇️  Downloading DSWD DROMIC Report #22 on the Effects of a Low Pressure Area and Tail-End of a Cold Front as of 11 Feb 2017, 6PM.docx
+2025-10-13 14:34:30,691 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1aY6tzxp4FoZr6e66GNnRmB3bnddhR2skBN6HMM6j1sk/export?format=docx
+2025-10-13 14:34:33,354 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on the Armed Conflict in Ampatuan, Maguindanao as of 3 February 2017, 6PM.docx
+2025-10-13 14:34:34,524 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1vdQJ4i-gEFRzaaJNbK3EhvFrnXLMlUugtRf1ztzbf3Y/export?format=docx
+2025-10-13 14:34:45,965 — INFO — ⬇️  Downloading DSWD DROMIC Report #28 on the Effects of a Tail-End of a Cold Front as of 3 February 2017, 3AM.docx
+2025-10-13 14:34:53,547 — INFO — ✅ Saved: DSWD DROMIC Report #28 on the Effects of a Tail-End of a Cold Front as of 3 February 2017, 3AM.docx
+2025-10-13 14:34:56,395 — INFO — ⬇️  Downloading DSWD DROMIC Report #4 on the Flooding Incident in Victoria, Oriental Mindoro due to Continuous Heavy Rains as of 18 January 2017, 8PM.docx
+2025-10-13 14:34:57,444 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/1hAb2pQ9dpugTdmVihXuja3SNklmAyTTLAxPrpb-CDAA/export?format=docx
+2025-10-13 14:35:05,226 — INFO — ⬇️  Downloading DSWD DROMIC Terminal Report on TD Auring, 25 Feb 2017, 9AM.docx
+2025-10-13 14:35:09,389 — INFO — ✅ Saved: DSWD DROMIC Terminal Report on TD Auring, 25 Feb 2017, 9AM.docx
+2025-10-13 14:35:12,194 — INFO — ⬇️  Downloading DSWD DROMIC Report #16 on TY Karen as of 20 Oct 2016, 2AM.docx
+2025-10-13 14:35:13,459 — WARNING — ⚠️  Skipped (non-file or auth required): https://docs.google.com/document/d/15Tahetlaa_VC3SKjMeRfNJTGJm37F6ByD-NWK1qWcxI/export?format=docx
+2025-10-13 14:35:24,691 — INFO — 
+✅ All pages processed.
