@@ -1,12 +1,31 @@
 # Scrape pages
 
 import os, time, requests
+import re
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+import logging
+import sys
+from datetime import datetime
 
-BASE_URL = "https://dromic.dswd.gov.ph/category/situation-reports/2016/"  # starting list page
+# === Setup logging ===
+LOG_FILE = f"scraper_log_{datetime.now().strftime('%Y%m%d_%H%M%S')}.txt"
+
+# Configure logging
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s — %(levelname)s — %(message)s",
+    handlers=[
+        logging.FileHandler(LOG_FILE, encoding="utf-8"),
+        logging.StreamHandler(sys.stdout)  # also print to console
+    ]
+)
+
+log = logging.getLogger()
+
+BASE_URL = "https://dromic.dswd.gov.ph/category/situation-reports/2017/"  # starting list page
 DOWNLOAD_DIR = "./downloads"
 os.makedirs(DOWNLOAD_DIR, exist_ok=True)
 
@@ -33,28 +52,41 @@ def make_direct_download_link(url: str):
         return f"https://docs.google.com/document/d/{file_id}/export?format=docx"
     return url
 
-def download_file(url: str):
+def sanitize_filename(name: str):
+    """Remove invalid filesystem characters."""
+    return re.sub(r'[<>:"/\\|?*]+', '', name).strip()
+
+def download_file(url: str, filename_hint: str = None):
     """Download a file from a direct link."""
     try:
-        filename = url.split("/")[-1].split("?")[0]
+        filename = filename_hint or url.split("/")[-1].split("?")[0]
+        filename = sanitize_filename(filename)
+        # Ensure it has an extension
+        if not os.path.splitext(filename)[1]:
+            if ".pdf" in url:
+                filename += ".pdf"
+            elif ".docx" in url or "document/d/" in url:
+                filename += ".docx"
+            else:
+                filename += ".bin"
+
         path = os.path.join(DOWNLOAD_DIR, filename)
-        print(f"⬇️  Downloading {filename}")
+
+        log.info(f"⬇️  Downloading {filename}")
         r = requests.get(url, timeout=30)
-        if r.status_code == 200:
+        if r.status_code == 200 and r.headers.get("content-type", "").startswith(("application", "text/plain")):
             with open(path, "wb") as f:
                 f.write(r.content)
-            print(f"✅ Saved: {filename}")
+            log.info(f"✅ Saved: {filename}")
         else:
-            print(f"⚠️  Skipped (HTTP {r.status_code}): {url}")
+            log.warning(f"⚠️  Skipped (non-file or auth required): {url}")
     except Exception as e:
-        print(f"❌ Error downloading {url}: {e}")
+        log.error(f"❌ Error downloading {url}: {e}")
 
 def extract_first_download_link():
     """
-    Looks for the *first* valid download link in multiple possible locations:
-    1. <a href="..."> containing .pdf, .docx, .doc
-    2. Google Docs links
-    3. Links inside embed sections or .wp-block-file
+    Looks for the *first* valid download link in multiple possible locations.
+    Returns (url, filename_text)
     """
     selectors = [
         "div.post-content a[href*='.pdf']",
@@ -67,15 +99,18 @@ def extract_first_download_link():
     for sel in selectors:
         elems = driver.find_elements(By.CSS_SELECTOR, sel)
         if elems:
-            href = elems[0].get_attribute("href")
+            elem = elems[0]
+            href = elem.get_attribute("href")
+            text = elem.text.strip() or "downloaded_file"
             if href:
-                return make_direct_download_link(href)
-    return None
+                return make_direct_download_link(href), text
+    return None, None
+
 
 def handle_page():
     """Click through all 'Read More' links and download the first document per post."""
     read_mores = driver.find_elements(By.XPATH, "//a[contains(.,'Read More')] | //button[contains(.,'Read More')]")
-    print(f"Found {len(read_mores)} posts on this page.")
+    log.info(f"Found {len(read_mores)} posts on this page.")
     
     for i in range(len(read_mores)):
         read_mores = driver.find_elements(By.XPATH, "//a[contains(.,'Read More')] | //button[contains(.,'Read More')]")
@@ -83,18 +118,19 @@ def handle_page():
             break
         btn = read_mores[i]
 
-        driver.execute_script("arguments[0].scrollIntoView();", btn)
-        btn.click()
+        driver.execute_script("arguments[0].scrollIntoView(true); window.scrollBy(0, -150);", btn)
+        time.sleep(0.5)
+        driver.execute_script("arguments[0].click();", btn)
 
         try:
             wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "div.post-content")))
-            file_url = extract_first_download_link()
+            file_url, file_name = extract_first_download_link()
             if file_url:
-                download_file(file_url)
+                download_file(file_url, file_name)
             else:
-                print("⚠️  No downloadable link found on this post.")
+                log.warning("⚠️  No downloadable link found on this post.")
         except Exception as e:
-            print("❌ Error processing post:", e)
+            log.error("❌ Error processing post:", e)
 
         # Go back to listing
         driver.back()
@@ -117,11 +153,11 @@ def goto_page(page_num):
 # === MAIN LOOP ===
 page = 1
 while True:
-    print(f"\n📄 Processing page {page}...")
+    log.info(f"\n📄 Processing page {page}...")
     handle_page()
     page += 1
     if not goto_page(page):
-        print("\n✅ All pages processed.")
+        log.info("\n✅ All pages processed.")
         break
 
 driver.quit()
