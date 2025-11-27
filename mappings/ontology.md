@@ -1,1 +1,4 @@
-There will be a specification here of the ontology that will be used to structure parsed data
+TO DO:
+- rename IRIs to match sakuna:label
+- cleanup ontology pitfalls
+- determine ways to store multiple paired values and attributes (itemCost, itemQty, )
