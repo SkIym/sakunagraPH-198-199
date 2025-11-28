@@ -1,4 +1,4 @@
 TO DO:
-- rename IRIs to match sakuna:label
 - cleanup ontology pitfalls
+- align with existing ontologies
 - determine ways to store multiple paired values and attributes (itemCost, itemQty, )
