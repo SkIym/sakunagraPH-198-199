@@ -1708,12 +1708,12 @@ geo:Geometry rdf:type owl:Class ;
                                  owl:onProperty :startDate ;
                                  owl:someValuesFrom xsd:dateTime
                                ] ;
-               rdfs:label "DisasterEvent"@en .
+               rdfs:label "Disaster Event"@en .
 
 
 ###  https://sakuna.ph/DisasterType
 :DisasterType rdf:type owl:Class ;
-              rdfs:label "DisasterType" .
+              rdfs:label "Disaster Type" .
 
 
 ###  https://sakuna.ph/Drought
