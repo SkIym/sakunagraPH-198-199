@@ -132,4 +132,4 @@ for _, row in gdf_municities.iterrows():
     g.add((uri, URIRef(SKG["psgc"]), Literal(psgc)))
     g.add((uri, URIRef(SKG["admLevel"]), Literal(admLevel)))
 
-g.serialize(destination='regions.ttl')
+g.serialize(destination='psgc_rdf.ttl')
