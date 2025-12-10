@@ -11,7 +11,10 @@ COLUMN_MAPPING = {
     "Main Area/s Affected / Location": "hasLocation",  
     "Additional Perils/Disaster Sub-Type Occurences (Compound Disaster, e.g. Typhoon Haiyan = rain + wind + storm surge)": "hasSubtype",
     "PREPAREDNESS_Announcements_Warnings Released / Status Alert or Alert/ State of Calamity": "declarationOfCalamity",
+    "PREPAREDNESS_Evacuation_LGU Evacuation Plan": "evacuationPlan",
     "PREPAREDNESS_Evacuation_No. of Evacuation Centers": "evacuationCenters",
+    "PREPAREDNESS_Rescue_Rescue Operating Unit/Team": "rescueUnit",
+    "PREPAREDNESS_Rescue_Available Rescue Equipment": "rescueEquipment",
     "IMPACT_Number of Affected Areas_Barangays": "affectedBarangays",
     "IMPACT_Casualties_Dead_Total": "dead",
     "IMPACT_Casualties_Injured_Total": "injured",
@@ -44,7 +47,13 @@ COLUMN_MAPPING = {
     "RESPONSE AND RECOVERY_Supply of Relief Goods_Clothing_Quantity": "itemQtyClothing", # itemTypeOrNeeds: Clothing
     "RESPONSE AND RECOVERY_Supply of Relief Goods_Medicine_Cost": "itemCostMedicine",    # itemTypeOrNeeds: Medicine
     "RESPONSE AND RECOVERY_Supply of Relief Goods_Medicine_Quantity": "itemQtyMedicine", # itemTypeOrNeeds: Medicine
-    "RESPONSE AND RECOVERY_Supply of Relief Goods_Items Not Specified (Cost)": "itemCostOthers", # itemTypeTypeOrNeeds: Others
+    "RESPONSE AND RECOVERY_Supply of Relief Goods_Items Not Specified (Cost)": "itemCostOthers1", # itemTypeOrNeeds: Others
+    "RESPONSE AND RECOVERY_Supply of Relief Goods_Total Cost": "itemCostOthers2", # itemTypeOrNeeds: Others
+    "RESPONSE AND RECOVERY_Supply of Relief Goods_Total Cost": "itemCostOthers2",
+    "RESPONSE AND RECOVERY_Search, Rescue and Retrieval": "srrDone",
+    "RESPONSE AND RECOVERY_City-Municipal Policy Changes": "policyChanges",
+    "RESPONSE AND RECOVERY_Cost of Structure Built post-disaster": "postStructureCost",
+    "RESPONSE AND RECOVERY_Post-Disaster Training": "postTraining",
     "REFERENCES (Authors. Year. Title. Journal/Book/Newspaper. Publisher, Place published. Pages. Website, Date Accessed)": "reference",
     "Detailed Description of Disaster Event": "otherDescription"
 
