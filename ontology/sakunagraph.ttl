@@ -17,26 +17,31 @@
 
 ###  http://www.opengis.net/ont/geosparql#asDGGS
 geo:asDGGS rdf:type owl:ObjectProperty ;
+           rdfs:subPropertyOf geo:hasSerialization ;
            rdfs:domain geo:Geometry .
 
 
 ###  http://www.opengis.net/ont/geosparql#asGML
 geo:asGML rdf:type owl:ObjectProperty ;
+          rdfs:subPropertyOf geo:hasSerialization ;
           rdfs:domain geo:Geometry .
 
 
 ###  http://www.opengis.net/ont/geosparql#asGeoJSON
 geo:asGeoJSON rdf:type owl:ObjectProperty ;
+              rdfs:subPropertyOf geo:hasSerialization ;
               rdfs:domain geo:Geometry .
 
 
 ###  http://www.opengis.net/ont/geosparql#asKML
 geo:asKML rdf:type owl:ObjectProperty ;
+          rdfs:subPropertyOf geo:hasSerialization ;
           rdfs:domain geo:Geometry .
 
 
 ###  http://www.opengis.net/ont/geosparql#asWKT
 geo:asWKT rdf:type owl:ObjectProperty ;
+          rdfs:subPropertyOf geo:hasSerialization ;
           rdfs:domain geo:Geometry .
 
 
@@ -129,6 +134,79 @@ geo:hasGeometry rdf:type owl:ObjectProperty ;
                 <http://www.w3.org/2004/02/skos/core#prefLabel> "has geometry"@en .
 
 
+###  http://www.opengis.net/ont/geosparql#hasSerialization
+geo:hasSerialization rdf:type owl:ObjectProperty ;
+                     rdfs:domain geo:Geometry .
+
+
+###  https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#hasDisasterLocation
+<https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#hasDisasterLocation> rdf:type owl:ObjectProperty ;
+                                                                                                         owl:inverseOf <https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#isLocationOfDisaster> ;
+                                                                                                         rdfs:domain :DisasterEvent ;
+                                                                                                         rdfs:range <https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#Location> ;
+                                                                                                         rdfs:label "has disaster location" ;
+                                                                                                         <http://www.w3.org/2004/02/skos/core#definition> "Represents the location where a natural disaster takes place." .
+
+
+###  https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#hasDisasterOccurrence
+<https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#hasDisasterOccurrence> rdf:type owl:ObjectProperty ;
+                                                                                                           owl:inverseOf <https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#isOfDisasterType> ;
+                                                                                                           rdfs:domain :DisasterType ;
+                                                                                                           rdfs:range :DisasterEvent ;
+                                                                                                           rdfs:label "has disaster occurrence" ;
+                                                                                                           <http://www.w3.org/2004/02/skos/core#definition> "Links a natural disaster type to a natural disaster." .
+
+
+###  https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#hasIncidentImpact
+<https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#hasIncidentImpact> rdf:type owl:ObjectProperty ;
+                                                                                                       rdfs:subPropertyOf :hasImpact ;
+                                                                                                       rdfs:domain <https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#Incident> ;
+                                                                                                       rdfs:range <https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#Impact> ;
+                                                                                                       rdfs:label "has incident impact" ;
+                                                                                                       <http://www.w3.org/2004/02/skos/core#definition> "Indicates the impact of the specific incident." .
+
+
+###  https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#hasIncidentLocation
+<https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#hasIncidentLocation> rdf:type owl:ObjectProperty ;
+                                                                                                         rdfs:subPropertyOf <https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#hasDisasterLocation> ;
+                                                                                                         owl:inverseOf <https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#isLocationOfIncident> ;
+                                                                                                         rdfs:domain <https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#Incident> ;
+                                                                                                         rdfs:range <https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#Location> ;
+                                                                                                         rdfs:label "has incident location" ;
+                                                                                                         <http://www.w3.org/2004/02/skos/core#definition> "Represents the location where an incident occurs." .
+
+
+###  https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#hasIncidentOccurrence
+<https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#hasIncidentOccurrence> rdf:type owl:ObjectProperty ;
+                                                                                                           rdfs:subPropertyOf <https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#hasDisasterOccurrence> ;
+                                                                                                           rdfs:domain :DisasterType ;
+                                                                                                           rdfs:range <https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#Incident> ;
+                                                                                                           rdfs:label "has incident occurrence" ;
+                                                                                                           <http://www.w3.org/2004/02/skos/core#definition> "Links an incident type to an incident." .
+
+
+###  https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#isLocationOfDisaster
+<https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#isLocationOfDisaster> rdf:type owl:ObjectProperty ;
+                                                                                                          rdfs:domain <https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#Location> ;
+                                                                                                          rdfs:range :DisasterEvent ;
+                                                                                                          rdfs:label "is location of disaster" ;
+                                                                                                          <http://www.w3.org/2004/02/skos/core#definition> "Links a location to a natural disaster occurrence." .
+
+
+###  https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#isLocationOfIncident
+<https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#isLocationOfIncident> rdf:type owl:ObjectProperty ;
+                                                                                                          rdfs:subPropertyOf <https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#isLocationOfDisaster> ;
+                                                                                                          rdfs:domain <https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#Location> ;
+                                                                                                          rdfs:range <https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#Incident> ;
+                                                                                                          rdfs:label "is location of incident" ;
+                                                                                                          <http://www.w3.org/2004/02/skos/core#definition> "Links a location to an incident occurrence." .
+
+
+###  https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#isOfDisasterType
+<https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#isOfDisasterType> owl:equivalentProperty :hasType ;
+                                                                                                      rdfs:label "is of disaster type" .
+
+
 ###  https://sakuna.ph/fromSource
 :fromSource rdf:type owl:ObjectProperty ;
             rdfs:subPropertyOf owl:topObjectProperty ;
@@ -162,7 +240,7 @@ geo:hasGeometry rdf:type owl:ObjectProperty ;
            rdfs:subPropertyOf owl:topObjectProperty ;
            rdfs:domain :DisasterEvent ;
            rdfs:range :Impact ;
-           rdfs:label "has impact"@en .
+           rdfs:label "has disaster impact"@en .
 
 
 ###  https://sakuna.ph/hasLocation
@@ -293,40 +371,44 @@ geo:hasGeometry rdf:type owl:ObjectProperty ;
 #################################################################
 
 ###  http://www.opengis.net/ont/geosparql#asDGGS
-geo:asDGGS rdf:type owl:DatatypeProperty ;
-           rdfs:subPropertyOf geo:hasSerialization .
+geo:asDGGS rdf:type owl:DatatypeProperty .
 
 
 ###  http://www.opengis.net/ont/geosparql#asGML
-geo:asGML rdf:type owl:DatatypeProperty ;
-          rdfs:subPropertyOf geo:hasSerialization .
+geo:asGML rdf:type owl:DatatypeProperty .
 
 
 ###  http://www.opengis.net/ont/geosparql#asGeoJSON
-geo:asGeoJSON rdf:type owl:DatatypeProperty ;
-              rdfs:subPropertyOf geo:hasSerialization .
+geo:asGeoJSON rdf:type owl:DatatypeProperty .
 
 
 ###  http://www.opengis.net/ont/geosparql#asKML
-geo:asKML rdf:type owl:DatatypeProperty ;
-          rdfs:subPropertyOf geo:hasSerialization .
+geo:asKML rdf:type owl:DatatypeProperty .
 
 
 ###  http://www.opengis.net/ont/geosparql#asWKT
-geo:asWKT rdf:type owl:DatatypeProperty ;
-          rdfs:subPropertyOf geo:hasSerialization .
+geo:asWKT rdf:type owl:DatatypeProperty .
 
 
 ###  http://www.opengis.net/ont/geosparql#hasSerialization
 geo:hasSerialization rdf:type owl:DatatypeProperty ;
-                     rdfs:domain geo:Geometry ;
-                     rdfs:range rdfs:Literal ;
-                     rdfs:isDefinedBy geo: ,
-                                      <http://www.opengis.net/spec/geosparql/1.0/req/geometry-extension/geometry-properties> ,
-                                      <http://www.opengis.net/spec/geosparql/1.1/req/geometry-extension/geometry-properties> ;
-                     <http://www.w3.org/2004/02/skos/core#definition> "Connects a Geometry object with its text-based serialization."@en ;
-                     <http://www.w3.org/2004/02/skos/core#example> <http://www.opengis.net/spec/geosparql/1.1/specification.html#C.1.2.3> ;
-                     <http://www.w3.org/2004/02/skos/core#prefLabel> "has serialization"@en .
+                     rdfs:range rdfs:Literal .
+
+
+###  https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#hasDisasterEnd
+<https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#hasDisasterEnd> rdf:type owl:DatatypeProperty ;
+                                                                                                    rdfs:domain <https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#NaturalDisaster> ;
+                                                                                                    rdfs:range xsd:dateTime ;
+                                                                                                    rdfs:label "has disaster end" ;
+                                                                                                    <http://www.w3.org/2004/02/skos/core#definition> "Indicates the end of the disaster." .
+
+
+###  https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#hasDisasterStart
+<https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#hasDisasterStart> rdf:type owl:DatatypeProperty ;
+                                                                                                      rdfs:domain <https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#NaturalDisaster> ;
+                                                                                                      rdfs:range xsd:dateTime ;
+                                                                                                      rdfs:label "has disaster start" ;
+                                                                                                      <http://www.w3.org/2004/02/skos/core#definition> "Indicates the start of the disaster." .
 
 
 ###  https://sakuna.ph/admLevel
@@ -1311,6 +1393,44 @@ geo:Geometry rdf:type owl:Class ;
                                                            <http://www.opengis.net/spec/geosparql/1.1/specification.html#C.1.2.4> ;
              <http://www.w3.org/2004/02/skos/core#note> "Geometry can be used as a representation of the shape, extent or location of a Feature and may exist as a self-contained entity."@en ;
              <http://www.w3.org/2004/02/skos/core#prefLabel> "Geometry"@en .
+
+
+###  http://www.opengis.net/ont/geosparql#SpatialObject
+geo:SpatialObject rdf:type owl:Class .
+
+
+###  https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#Impact
+<https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#Impact> rdf:type owl:Class ;
+                                                                                            owl:equivalentClass :Impact ;
+                                                                                            rdfs:label "Impact" ;
+                                                                                            <http://www.w3.org/2004/02/skos/core#definition> "Represents the impact of natural disasters and incidents." .
+
+
+###  https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#Incident
+<https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#Incident> rdf:type owl:Class ;
+                                                                                              owl:equivalentClass :Incident ;
+                                                                                              rdfs:label "Incident" ;
+                                                                                              <http://www.w3.org/2004/02/skos/core#definition> "Represents the various incidents taking place during a natural disaster." .
+
+
+###  https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#Location
+<https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#Location> owl:equivalentClass :Location .
+
+
+###  https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#NaturalDisaster
+<https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#NaturalDisaster> rdf:type owl:Class ;
+                                                                                                     owl:equivalentClass :MajorEvent ;
+                                                                                                     rdfs:subClassOf :DisasterEvent ;
+                                                                                                     rdfs:label "Natural Disaster" ;
+                                                                                                     <http://www.w3.org/2004/02/skos/core#definition> "Represents the actual manifestation of a natural disaster type. An instance of a natural disaster has specific climate conditions with specific values (e.g. temperature = 45) plus some other properties (e.g. start/end time)." .
+
+
+###  https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#NaturalDisasterType
+<https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#NaturalDisasterType> rdf:type owl:Class ;
+                                                                                                         owl:equivalentClass :Natural ;
+                                                                                                         rdfs:label "Natural Disaster Type" ;
+                                                                                                         <http://www.w3.org/2004/02/skos/core#definition> "Represents the various types of disasters." ;
+                                                                                                         <http://www.w3.org/2004/02/skos/core#example> "Floods, forest fires, storms or earthquakes etc." .
 
 
 ###  https://sakuna.ph/AffectedPopulation
@@ -2799,6 +2919,14 @@ geo:asWKT rdfs:isDefinedBy geo: ,
                                                         <http://www.opengis.net/spec/geosparql/1.1/specification.html#C.2.1> ,
                                                         <http://www.opengis.net/spec/geosparql/1.1/specification.html#C.2.2.4> ;
           <http://www.w3.org/2004/02/skos/core#prefLabel> "as WKT"@en .
+
+
+geo:hasSerialization rdfs:isDefinedBy geo: ,
+                                      <http://www.opengis.net/spec/geosparql/1.0/req/geometry-extension/geometry-properties> ,
+                                      <http://www.opengis.net/spec/geosparql/1.1/req/geometry-extension/geometry-properties> ;
+                     <http://www.w3.org/2004/02/skos/core#definition> "Connects a Geometry object with its text-based serialization."@en ;
+                     <http://www.w3.org/2004/02/skos/core#example> <http://www.opengis.net/spec/geosparql/1.1/specification.html#C.1.2.3> ;
+                     <http://www.w3.org/2004/02/skos/core#prefLabel> "has serialization"@en .
 
 
 ###  Generated by the OWL API (version 4.5.29.2024-05-13T12:11:03Z) https://github.com/owlcs/owlapi

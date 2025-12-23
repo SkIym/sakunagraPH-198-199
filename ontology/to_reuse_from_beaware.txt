@@ -6,8 +6,8 @@ to copy
 
 Impact === Impact
 Incident === Incident
-Location === Location
 Natural Disaster === Disaster Event
+Natural Disaster Type == 
 
 has disaster location === has incident location === has location 
 is location of disaster === is location of incident ->
@@ -20,3 +20,5 @@ has incident impact === has disaster impact === has impact
 
 impact type class is brnached out into the ones currently
 
+has disaster end === endDate
+has disaster start === startDate
