@@ -9,7 +9,66 @@
 
 <https://sakuna.ph/> rdf:type owl:Ontology ;
                       owl:imports <http://www.opengis.net/ont/geosparql/1.1> ,
+                                  <http://www.w3.org/ns/prov-o-20130430> ,
                                   <https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology> .
+
+#################################################################
+#    Datatypes
+#################################################################
+
+###  http://www.opengis.net/ont/geosparql#dggsLiteral
+geo:dggsLiteral rdf:type rdfs:Datatype ;
+                rdfs:isDefinedBy geo: ,
+                                 <http://www.opengis.net/spec/geosparql/1.1/req/geometry-extension/dggs-literal> ;
+                rdfs:seeAlso <http://www.opengis.net/doc/AS/dggs/2.0> ;
+                <http://www.w3.org/2004/02/skos/core#definition> "A textual serialization of a Discrete Global Grid (DGGS) Geometry object."@en ;
+                <http://www.w3.org/2004/02/skos/core#example> <http://www.opengis.net/spec/geosparql/1.1/specification.html#C.1.2.4> ,
+                                                              " \"<https://w3id.org/dggs/auspix> OrdinateList (R3234)\"^^<http://www.opengis.net/ont/geosparql#dggsLiteral>" ;
+                <http://www.w3.org/2004/02/skos/core#prefLabel> "DGGS Literal"@en ;
+                <http://www.w3.org/2004/02/skos/core#scopeNote> "This datatype is not expected to be used directly but to serve as an abstract datatype for a series of specific DGGS literal types, for specific DGGS implementations"@en .
+
+
+###  http://www.opengis.net/ont/geosparql#geoJSONLiteral
+geo:geoJSONLiteral rdf:type rdfs:Datatype ;
+                   rdfs:isDefinedBy geo: ,
+                                    <http://www.opengis.net/spec/geosparql/1.1/req/geometry-extension/geojson-literal> ;
+                   rdfs:seeAlso <https://tools.ietf.org/html/rfc7946> ;
+                   <http://www.w3.org/2004/02/skos/core#definition> "A GeoJSON serialization of a Geometry object."@en ;
+                   <http://www.w3.org/2004/02/skos/core#example> <http://www.opengis.net/spec/geosparql/1.1/specification.html#C.1.2.4> ;
+                   <http://www.w3.org/2004/02/skos/core#prefLabel> "GeoJSON Literal"@en .
+
+
+###  http://www.opengis.net/ont/geosparql#gmlLiteral
+geo:gmlLiteral rdf:type rdfs:Datatype ;
+               rdfs:isDefinedBy geo: ,
+                                <http://www.opengis.net/spec/geosparql/1.0/req/geometry-extension/gml-literal> ,
+                                <http://www.opengis.net/spec/geosparql/1.1/req/geometry-extension/gml-literal> ;
+               rdfs:seeAlso <https://portal.ogc.org/files/?artifact_id=20509> ;
+               <http://www.w3.org/2004/02/skos/core#definition> "A GML serialization of a Geometry object."@en ;
+               <http://www.w3.org/2004/02/skos/core#example> <http://www.opengis.net/spec/geosparql/1.1/specification.html#C.1.2.4> ;
+               <http://www.w3.org/2004/02/skos/core#prefLabel> "GML Literal"@en .
+
+
+###  http://www.opengis.net/ont/geosparql#kmlLiteral
+geo:kmlLiteral rdf:type rdfs:Datatype ;
+               rdfs:isDefinedBy geo: ,
+                                <http://www.opengis.net/spec/geosparql/1.1/req/geometry-extension/kml-literal> ;
+               rdfs:seeAlso <https://www.ogc.org/standards/kml/> ;
+               <http://www.w3.org/2004/02/skos/core#definition> "A KML serialization of a Geometry object."@en ;
+               <http://www.w3.org/2004/02/skos/core#example> <http://www.opengis.net/spec/geosparql/1.1/specification.html#C.1.2.4> ;
+               <http://www.w3.org/2004/02/skos/core#prefLabel> "KML Literal"@en .
+
+
+###  http://www.opengis.net/ont/geosparql#wktLiteral
+geo:wktLiteral rdf:type rdfs:Datatype ;
+               rdfs:isDefinedBy geo: ,
+                                <http://www.opengis.net/spec/geosparql/1.0/req/geometry-extension/wkt-literal> ,
+                                <http://www.opengis.net/spec/geosparql/1.1/req/geometry-extension/wkt-literal> ;
+               rdfs:seeAlso <https://portal.ogc.org/files/?artifact_id=25355> ;
+               <http://www.w3.org/2004/02/skos/core#definition> "A Well-known Text serialization of a Geometry object."@en ;
+               <http://www.w3.org/2004/02/skos/core#example> <http://www.opengis.net/spec/geosparql/1.1/specification.html#C.2.2.2> ;
+               <http://www.w3.org/2004/02/skos/core#prefLabel> "Well-known Text Literal"@en .
+
 
 #################################################################
 #    Object Properties
@@ -150,7 +209,8 @@ geo:hasSerialization rdf:type owl:ObjectProperty ;
 
 ###  https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#hasDisasterOccurrence
 <https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#hasDisasterOccurrence> rdf:type owl:ObjectProperty ;
-                                                                                                           owl:inverseOf <https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#isOfDisasterType> ;
+                                                                                                           owl:inverseOf <https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#isOfDisasterType> ,
+                                                                                                                         :hasType ;
                                                                                                            rdfs:domain :DisasterType ;
                                                                                                            rdfs:range :DisasterEvent ;
                                                                                                            rdfs:label "has disaster occurrence" ;
@@ -203,7 +263,8 @@ geo:hasSerialization rdf:type owl:ObjectProperty ;
 
 
 ###  https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#isOfDisasterType
-<https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#isOfDisasterType> owl:equivalentProperty :hasType ;
+<https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#isOfDisasterType> rdf:type owl:ObjectProperty ;
+                                                                                                      owl:equivalentProperty :hasType ;
                                                                                                       rdfs:label "is of disaster type" .
 
 
@@ -326,6 +387,7 @@ geo:hasSerialization rdf:type owl:ObjectProperty ;
 
 ###  https://sakuna.ph/hasSubtype
 :hasSubtype rdf:type owl:ObjectProperty ;
+            rdfs:subPropertyOf :hasType ;
             rdfs:domain :DisasterEvent ;
             rdfs:range :DisasterType ;
             rdfs:label "has disaster subtype"@en .
@@ -371,23 +433,33 @@ geo:hasSerialization rdf:type owl:ObjectProperty ;
 #################################################################
 
 ###  http://www.opengis.net/ont/geosparql#asDGGS
-geo:asDGGS rdf:type owl:DatatypeProperty .
+geo:asDGGS rdf:type owl:DatatypeProperty ;
+           rdfs:domain geo:Geometry ;
+           rdfs:range geo:dggsLiteral .
 
 
 ###  http://www.opengis.net/ont/geosparql#asGML
-geo:asGML rdf:type owl:DatatypeProperty .
+geo:asGML rdf:type owl:DatatypeProperty ;
+          rdfs:domain geo:Geometry ;
+          rdfs:range geo:gmlLiteral .
 
 
 ###  http://www.opengis.net/ont/geosparql#asGeoJSON
-geo:asGeoJSON rdf:type owl:DatatypeProperty .
+geo:asGeoJSON rdf:type owl:DatatypeProperty ;
+              rdfs:domain geo:Geometry ;
+              rdfs:range geo:geoJSONLiteral .
 
 
 ###  http://www.opengis.net/ont/geosparql#asKML
-geo:asKML rdf:type owl:DatatypeProperty .
+geo:asKML rdf:type owl:DatatypeProperty ;
+          rdfs:domain geo:Geometry ;
+          rdfs:range geo:kmlLiteral .
 
 
 ###  http://www.opengis.net/ont/geosparql#asWKT
-geo:asWKT rdf:type owl:DatatypeProperty .
+geo:asWKT rdf:type owl:DatatypeProperty ;
+          rdfs:domain geo:Geometry ;
+          rdfs:range geo:wktLiteral .
 
 
 ###  http://www.opengis.net/ont/geosparql#hasSerialization
@@ -1349,7 +1421,6 @@ geo:hasSerialization rdf:type owl:DatatypeProperty ;
 
 ###  http://www.opengis.net/ont/geosparql#Feature
 geo:Feature rdf:type owl:Class ;
-            owl:equivalentClass :Location ;
             rdfs:subClassOf geo:SpatialObject ;
             owl:disjointWith geo:Geometry ;
             rdfs:isDefinedBy geo: ,
@@ -1416,7 +1487,8 @@ geo:SpatialObject rdf:type owl:Class .
 
 
 ###  https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#Location
-<https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#Location> owl:equivalentClass :Location .
+<https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#Location> rdf:type owl:Class ;
+                                                                                              owl:equivalentClass :Location .
 
 
 ###  https://raw.githubusercontent.com/beAWARE-project/ontology/master/beAWARE_ontology#NaturalDisaster
@@ -2263,6 +2335,7 @@ geo:SpatialObject rdf:type owl:Class .
 
 ###  https://sakuna.ph/Location
 :Location rdf:type owl:Class ;
+          rdfs:subClassOf geo:Feature ;
           rdfs:label "Location"@en .
 
 
