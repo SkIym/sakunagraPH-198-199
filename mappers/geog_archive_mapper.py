@@ -10,6 +10,7 @@ COLUMN_MAPPING = {
     "Longitude": "longitude",
     "Main Area/s Affected / Location": "hasLocation",  
     "Additional Perils/Disaster Sub-Type Occurences (Compound Disaster, e.g. Typhoon Haiyan = rain + wind + storm surge)": "hasSubtype",
+    "PREPAREDNESS_Announcements_Local Agencies / Government Units Concerned": "agencyLGUsPresentPreparedness",
     "PREPAREDNESS_Announcements_Warnings Released / Status Alert or Alert/ State of Calamity": "declarationOfCalamity",
     "PREPAREDNESS_Evacuation_LGU Evacuation Plan": "evacuationPlan",
     "PREPAREDNESS_Evacuation_No. of Evacuation Centers": "evacuationCenters",
@@ -36,7 +37,7 @@ COLUMN_MAPPING = {
     "IMPACT_Status of Lifelines_Water_Dams and other Reservoirs": "areDamsAffected",
     "IMPACT_Status of Lifelines_Water_Tap": "isTapAffected",
     "RESPONSE AND RECOVERY_Allocated Funds for the Affected Area/s": "allocatedFunds",
-    "RESPONSE AND RECOVERY_NGO-LGU Support Units Present": "agencyLGUsPresent",
+    "RESPONSE AND RECOVERY_NGO-LGU Support Units Present": "agencyLGUsPresentAssistance",
     "RESPONSE AND RECOVERY_International Organizations Present": "internationalOrgsPresent",
     "RESPONSE AND RECOVERY_Amount of Donation from International Organizations (including local NGOs)": "amoungNGOs",
     "RESPONSE AND RECOVERY_Supply of Relief Goods_Canned Goods, Rice, etc._Cost": "itemCostGoods",    # itemTypeOrNeeds: Canned Goods, Rice
