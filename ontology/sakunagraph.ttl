@@ -497,7 +497,11 @@ geo:hasSerialization rdf:type owl:DatatypeProperty ;
 ###  https://sakuna.ph/agencyLGUsPresent
 :agencyLGUsPresent rdf:type owl:DatatypeProperty ;
                    rdfs:subPropertyOf owl:topDataProperty ;
-                   rdfs:domain :Assistance ;
+                   rdfs:domain [ rdf:type owl:Class ;
+                                 owl:unionOf ( :Assistance
+                                               :Preparedness
+                                             )
+                               ] ;
                    rdfs:range xsd:string ;
                    rdfs:label "agency and LGUs present"@en .
 
@@ -2477,6 +2481,10 @@ geo:SpatialObject rdf:type owl:Class .
 
 ###  https://sakuna.ph/Preparedness
 :Preparedness rdf:type owl:Class ;
+              owl:equivalentClass [ rdf:type owl:Restriction ;
+                                    owl:onProperty :agencyLGUsPresent ;
+                                    owl:someValuesFrom xsd:string
+                                  ] ;
               rdfs:subClassOf [ rdf:type owl:Restriction ;
                                 owl:onProperty :fromSource ;
                                 owl:someValuesFrom :Source
